@@ -1,7 +1,7 @@
 # Packaging Python Scripts into CLI Commands
 
 ### Running the script
-First, create the ```bash setup.py```, ```bash caesar\__init__.py```, and ```bash caesar\caesar.py``` files, then run 
+First, create the ```setup.py```, ```caesar\__init__.py```, and ```caesar\caesar.py``` files, then run 
 ```bash
 python3 setup.py install
 ```
