@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: caesar
+Version: 1.0
+Summary: Hides a message with a Caesar cipher
+Home-page: UNKNOWN
+Author: Shail Shouryya
+Author-email: sshouryy@ucsc.edu
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
