@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import urllib
 import json
 
-r = urllib.urlopen('http://www.coffeeshop.freeuk.com/Map.html').read()
+r = urllib.request('http://www.coffeeshop.freeuk.com/Map.html')
 soup = BeautifulSoup(r, 'html.parser')
 
 
