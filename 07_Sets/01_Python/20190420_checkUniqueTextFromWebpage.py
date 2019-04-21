@@ -33,7 +33,10 @@ chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
 # drop blank lines
 text = '\n'.join(chunk for chunk in chunks if chunk)
 
-print(text)
+
+# print(text)
+
+print ("The url of the webpage being analyzed is:\n" + url)
 print ('*'*50)
 print ("Length of webpage text: ", str(len(text)))
 beg = time.time()
