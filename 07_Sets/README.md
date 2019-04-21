@@ -1,4 +1,5 @@
 # Sets Repository
+[set symbols](Media/mathset.png)
 
 *** "sets" in this context is used to refer to the language specific implementation of mathematical sets ***
 
