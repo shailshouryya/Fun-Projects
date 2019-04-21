@@ -7,15 +7,10 @@ html = urllib.request.urlopen(url).read()
 soup = BeautifulSoup(html, 'html.parser') #leaving out 'html.parser' yielded the following output in terminal:
 
 # C:\Users\Shail\Anaconda3\lib\site-packages\bs4\__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
-
 # The code that caused this warning is on line 6 of the file 20190420_checkUniqueTextFromWebpage.py. To get rid of this warning, change code that looks like this:
-
  # BeautifulSoup(YOUR_MARKUP})
-
 # to this:
-
  # BeautifulSoup(YOUR_MARKUP, "lxml")
-
   # markup_type=markup_type))
 
 
@@ -34,7 +29,8 @@ chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
 text = '\n'.join(chunk for chunk in chunks if chunk)
 
 
-# print(text)
+# print(text) #commented out text to avoid having all text on webpage being printed to terminal; to see text on webpage, uncomment this line
+# OR just vist the url
 
 print ("The url of the webpage being analyzed is:\n" + url)
 print ('*'*50)
