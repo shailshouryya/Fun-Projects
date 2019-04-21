@@ -7,5 +7,3 @@ Started reading articles that walk through how to make different things and deci
 If you're still stuck, Google! StackOverflow is a great resource with many relevant questions, and other tutorial sites often contain a wealth of information. If you're not getting what you want to work to work, keep digging around, there's probably a way. If it's taking too long though, it may be worthwhile to just take a step back and check if your environment is setup properly.
 
 Happy coding!
-
-<p align="center"><img src ="Media/emperor-penguin-chick-credit-british-antarctic-survey.jpg" /></p>
