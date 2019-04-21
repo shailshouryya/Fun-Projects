@@ -38,10 +38,14 @@ text = '\n'.join(chunk for chunk in chunks if chunk)
 
 print ("The url of the webpage being analyzed is:\n" + url)
 print ('*'*50)
-print ("Length of webpage text: ", str(len(text)))
+print ("Length of webpage (characters): ", str(len(text)))
+
 beg = time.time()
-print (len(set(text)))
+nUniqueCharacters = len(set(text))
 end = time.time()
 timeTaken = end - beg
+
+print ("The number of unique characters on the page is:", str(nUniqueCharacters))
+
 print ("Time taken to check number of unique characters on webpage (seconds):")
 print (timeTaken)
