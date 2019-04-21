@@ -5,19 +5,19 @@ import time
 url = "https://stackoverflow.com/questions/328356/extracting-text-from-html-file-using-python"
 html = urllib.request.urlopen(url).read()
 soup = BeautifulSoup(html, 'html.parser') #leaving out 'html.parser' yielded the following output in terminal:
-'''
-C:\Users\Shail\Anaconda3\lib\site-packages\bs4\__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
 
-The code that caused this warning is on line 6 of the file 20190420_checkUniqueTextFromWebpage.py. To get rid of this warning, change code that looks like this:
+# C:\Users\Shail\Anaconda3\lib\site-packages\bs4\__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
 
- BeautifulSoup(YOUR_MARKUP})
+# The code that caused this warning is on line 6 of the file 20190420_checkUniqueTextFromWebpage.py. To get rid of this warning, change code that looks like this:
 
-to this:
+ # BeautifulSoup(YOUR_MARKUP})
 
- BeautifulSoup(YOUR_MARKUP, "lxml")
+# to this:
 
-  markup_type=markup_type))
-'''
+ # BeautifulSoup(YOUR_MARKUP, "lxml")
+
+  # markup_type=markup_type))
+
 
 # kill all script and style elements
 for script in soup(["script", "style"]):
