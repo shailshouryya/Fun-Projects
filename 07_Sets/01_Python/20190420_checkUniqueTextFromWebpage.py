@@ -1,5 +1,6 @@
 import urllib
 from bs4 import BeautifulSoup
+import time
 
 url = "https://stackoverflow.com/questions/328356/extracting-text-from-html-file-using-python"
 html = urllib.request.urlopen(url).read()
@@ -33,4 +34,9 @@ chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
 text = '\n'.join(chunk for chunk in chunks if chunk)
 
 print(text)
+print ('*'*50)
+beg = time.time()
 print (len(set(text)))
+end = time.time()
+timeTaken = end - beg
+print ("Time taken to check number of unique characters on webpage: " + timeTaken)
