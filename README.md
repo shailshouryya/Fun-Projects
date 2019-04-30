@@ -22,3 +22,7 @@ Happy coding!
   - [How do I undo the most recent local commits in Git?](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git?rq=1)
   - [On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html)
   - [Throw away local commits in Git](https://stackoverflow.com/questions/5097456/throw-away-local-commits-in-git)
+
+## Learning
+### Data Science:
+- [Siraj Raval's curriculum for learning data science in 3 months)[https://github.com/llSourcell/Learn_Data_Science_in_3_Months] - YouTube Video: [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA&feature=youtu.be)
