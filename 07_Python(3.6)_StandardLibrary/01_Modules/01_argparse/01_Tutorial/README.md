@@ -1,0 +1,3 @@
+# [Argparse Tutorial](https://docs.python.org/3.6/howto/argparse.html#id1)
+
+This directory contains .py files with the code provided from the Python HOWTOs documentation for Python 3.6.8. This will be essentially the same as the code at the documentation page, and is provided to play around with the files in terminal and get hands-on experience working with different feeatures rather than just reading about it.
