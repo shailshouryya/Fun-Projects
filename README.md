@@ -28,7 +28,7 @@ Happy coding!
 
 ## Learning
 ### Data Science:
-*[Siraj Raval's curriculum for learning data science in 3 months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months) - YouTube Video: [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA&feature=youtu.be)
+* [Siraj Raval's curriculum for learning data science in 3 months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months) - YouTube Video: [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA&feature=youtu.be)
 ### Programming:
 * [Python Programming Exercises by zhiwehu](https://github.com/zhiwehu/Python-programming-exercises)
 
