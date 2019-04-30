@@ -68,6 +68,7 @@ Happy coding!
 
 ## Principles
 * [The Tyranny of Convenience: Welcome to the future we all chose, but that nobody seems to want](https://onezero.medium.com/the-tyranny-of-convenience-2e7fa145ab4)
+* [How “systems thinking” can level up your work — and your life](https://medium.com/swlh/how-systems-thinking-can-level-up-your-work-and-your-life-24070e96d906)
 * [It's Time for Tech Companies to adopt a Do-No-Harm Approach](https://onezero.medium.com/its-time-for-tech-companies-to-adopt-a-do-no-harm-approach-ebd6206cb47d)
 * [What Seven Years at Airbnb Taught Me About Building a Business](https://medium.com/s/please-advise/what-seven-years-at-airbnb-taught-me-about-building-a-company-e1d035d49c56)
 * [This Question Will Change Your (Reading) Life](https://humanparts.medium.com/this-question-will-change-your-reading-life-a28c622c0c25)
