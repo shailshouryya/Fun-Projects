@@ -59,3 +59,15 @@ Happy coding!
   * [Top 100 Data science interview questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com) - Nitin Panwar's GitHub
   * [109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science-interview-questions/) - Springboard
   * [Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473) - RPubs
+  ### Data Engineering:
+  * [How I Passed the Google Cloud Professional Data Engineer Certification Exam](https://towardsdatascience.com/passing-the-google-cloud-professional-data-engineer-certification-87da9908b333)
+  
+## Development Practice:
+* [Recurring Problems with Angular](https://medium.com/@michelestieven/angular-recurring-problems-i-face-as-a-front-end-consultant-d2a9c1826a3a)
+* [How I managed to control chaos with Laravel](https://medium.com/@josepostiga/how-i-managed-to-control-chaos-with-laravel-d47b9444a451)
+
+## Principles
+* [The Tyranny of Convenience: Welcome to the future we all chose, but that nobody seems to want](https://onezero.medium.com/the-tyranny-of-convenience-2e7fa145ab4)
+* [It's Time for Tech Companies to adopt a Do-No-Harm Approach](https://onezero.medium.com/its-time-for-tech-companies-to-adopt-a-do-no-harm-approach-ebd6206cb47d)
+* [What Seven Years at Airbnb Taught Me About Building a Business](https://medium.com/s/please-advise/what-seven-years-at-airbnb-taught-me-about-building-a-company-e1d035d49c56)
+* [This Question Will Change Your (Reading) Life](https://humanparts.medium.com/this-question-will-change-your-reading-life-a28c622c0c25)
