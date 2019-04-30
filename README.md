@@ -10,3 +10,15 @@ Happy coding!
 
 ## Great Sources
 * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/#the-hitchhiker-s-guide-to-python)
+* [Real Python Python Guide](https://github.com/realpython/python-guide) (the GitHub page for The Hitchhiker's Guide to Python)
+* [Papers with Code](https://github.com/zziz/pwc)
+* [External Equivalent of Internal Google Tools](https://github.com/jhuangtw-dev/xg2xg)
+* [Airbnb Guide to JavaScript](https://github.com/airbnb/javascript)
+* [Svelte GitHub](https://github.com/sveltejs/svelte) {minimalist JavaScript framework)
+
+
+## Git Resources:
+* Undoing local Git commits:
+  - [How do I undo the most recent local commits in Git?](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git?rq=1)
+  - [On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html)
+  - [Throw away local commits in Git](https://stackoverflow.com/questions/5097456/throw-away-local-commits-in-git)
