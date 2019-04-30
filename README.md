@@ -72,3 +72,4 @@ Happy coding!
 * [It's Time for Tech Companies to adopt a Do-No-Harm Approach](https://onezero.medium.com/its-time-for-tech-companies-to-adopt-a-do-no-harm-approach-ebd6206cb47d)
 * [What Seven Years at Airbnb Taught Me About Building a Business](https://medium.com/s/please-advise/what-seven-years-at-airbnb-taught-me-about-building-a-company-e1d035d49c56)
 * [This Question Will Change Your (Reading) Life](https://humanparts.medium.com/this-question-will-change-your-reading-life-a28c622c0c25)
+* [As a Leader, Time Is Your Most Valuable Resource](https://medium.com/s/please-advise/as-a-leader-time-is-your-most-valuable-resource-133ae50ccba4)
