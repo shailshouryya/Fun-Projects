@@ -25,14 +25,14 @@ Happy coding!
 
 ## Learning
 ### Data Science:
-*[Siraj Raval's curriculum for learning data science in 3 months)[https://github.com/llSourcell/Learn_Data_Science_in_3_Months] - YouTube Video: [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA&feature=youtu.be)
+*[Siraj Raval's curriculum for learning data science in 3 months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months) - YouTube Video: [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA&feature=youtu.be)
 ### Programming:
 * [Python Programming Exercises by zhiwehu](https://github.com/zhiwehu/Python-programming-exercises)
 
 ## Interesting Repositories:
-*[Google Filament](https://github.com/google/filament) - "Filament is a real-time physically based rendering engine for Android, iOS, Linux, macOS, Windows, and WebGL. It is designed to be as small as possible and as efficient as possible on Android.
+* [Google Filament](https://github.com/google/filament) - "Filament is a real-time physically based rendering engine for Android, iOS, Linux, macOS, Windows, and WebGL. It is designed to be as small as possible and as efficient as possible on Android.
 
-Filament is currently used in the Sceneform library both at runtime on Android devices and as the renderer inside the Android Studio plugin."
+  Filament is currently used in the Sceneform library both at runtime on Android devices and as the renderer inside the Android Studio plugin."
 *[gitea](https://github.com/go-gitea/gitea) - "The goal of this project is to make the easiest, fastest, and most painless way of setting up a self-hosted Git service. Using Go, this can be done with an independent binary distribution across all platforms which Go supports, including Linux, macOS, and Windows on x86, amd64, ARM and PowerPC architectures. Want to try it before doing anything else? Do it with the online demo! This project has been forked from Gogs since 2016.11 but changed a lot."
 * [TimeSeries_Seq2Seq](https://github.com/JEddy92/TimeSeries_Seq2Seq) - "This repo aims to be a useful collection of notebooks/code for understanding and implementing seq2seq neural networks for time series forecasting. Networks are constructed with keras/tensorflow."
 * [mastodon](https://github.com/tootsuite/mastodon) - "Mastodon is a free, open-source social network server based on ActivityPub. Follow friends and discover new ones. Publish anything you want: links, pictures, text, video. All servers of Mastodon are interoperable as a federated network, i.e. users on one server can seamlessly communicate with users from another one. This includes non-Mastodon software that also implements ActivityPub!"
