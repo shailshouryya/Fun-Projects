@@ -44,7 +44,7 @@ Filament is currently used in the Sceneform library both at runtime on Android d
     Data sets: dSprites, Color/Noisy/Scream-dSprites, SmallNORB, Cars3D, and Shapes3D
     It also includes 10'800 pretrained disentanglement models (see below for details).
 
-disentanglement_lib was created by Olivier Bachem and Francesco Locatello at Google Brain Zurich for the large-scale empirical study"
+    disentanglement_lib was created by Olivier Bachem and Francesco Locatello at Google Brain Zurich for the large-scale empirical study"
 * [eo-learn](https://github.com/sentinel-hub/eo-learn) - "eo-learn makes extraction of valuable information from satellite imagery easy.
 
-The availability of open Earth observation (EO) data through the Copernicus and Landsat programs represents an unprecedented resource for many EO applications, ranging from ocean and land use and land cover monitoring, disaster control, emergency services and humanitarian relief. Given the large amount of high spatial resolution data at high revisit frequency, techniques able to automatically extract complex patterns in such spatio-temporal data are needed."
+  The availability of open Earth observation (EO) data through the Copernicus and Landsat programs represents an unprecedented resource for many EO applications, ranging from ocean and land use and land cover monitoring, disaster control, emergency services and humanitarian relief. Given the large amount of high spatial resolution data at high revisit frequency, techniques able to automatically extract complex patterns in such spatio-temporal data are needed."
