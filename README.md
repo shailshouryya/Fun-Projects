@@ -8,14 +8,17 @@ If you're still stuck, Google! StackOverflow is a great resource with many relev
 
 Happy coding!
 
-## Great Sources
+## Great Sources:
 * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/#the-hitchhiker-s-guide-to-python)
 * [Real Python Python Guide](https://github.com/realpython/python-guide) (the GitHub page for The Hitchhiker's Guide to Python)
 * [Papers with Code](https://github.com/zziz/pwc)
 * [External Equivalent of Internal Google Tools](https://github.com/jhuangtw-dev/xg2xg)
 * [Airbnb Guide to JavaScript](https://github.com/airbnb/javascript)
 * [Svelte GitHub](https://github.com/sveltejs/svelte) {minimalist JavaScript framework)
-
+* [LLVM](http://llvm.org/)
+* [Data Science cheatsheets by FavioVazquez](https://github.com/FavioVazquez/ds-cheatsheets#sql)
+* [Data Science Cheatsheets Expanded by abhat222](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+* [CME 106 ― Introduction to Probability and Statistics for Engineers](https://stanford.edu/~shervine/teaching/cme-106/)
 
 ## Git Resources:
 * Undoing local Git commits:
@@ -48,3 +51,11 @@ Happy coding!
 * [eo-learn](https://github.com/sentinel-hub/eo-learn) - "eo-learn makes extraction of valuable information from satellite imagery easy.
 
   The availability of open Earth observation (EO) data through the Copernicus and Landsat programs represents an unprecedented resource for many EO applications, ranging from ocean and land use and land cover monitoring, disaster control, emergency services and humanitarian relief. Given the large amount of high spatial resolution data at high revisit frequency, techniques able to automatically extract complex patterns in such spatio-temporal data are needed."
+  
+  ## Interview Questions
+  ### Data Science:
+  * [100 general data science Q&A](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184) - DeZyre
+  * [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/) - Analytics Vidhya
+  * [Top 100 Data science interview questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com) - Nitin Panwar's GitHub
+  * [109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science-interview-questions/) - Springboard
+  * [Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473) - RPubs
