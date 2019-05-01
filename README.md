@@ -52,7 +52,7 @@ Happy coding!
 
   The availability of open Earth observation (EO) data through the Copernicus and Landsat programs represents an unprecedented resource for many EO applications, ranging from ocean and land use and land cover monitoring, disaster control, emergency services and humanitarian relief. Given the large amount of high spatial resolution data at high revisit frequency, techniques able to automatically extract complex patterns in such spatio-temporal data are needed."
   
-  ## Interview Questions
+## Interview Questions
   ### Data Science:
   * [100 general data science Q&A](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184) - DeZyre
   * [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/) - Analytics Vidhya
@@ -65,6 +65,9 @@ Happy coding!
 ## Development Practice:
 * [Recurring Problems with Angular](https://medium.com/@michelestieven/angular-recurring-problems-i-face-as-a-front-end-consultant-d2a9c1826a3a)
 * [How I managed to control chaos with Laravel](https://medium.com/@josepostiga/how-i-managed-to-control-chaos-with-laravel-d47b9444a451)
+* [The CSS Handbook: a handy guide to CSS for developers](https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11)
+* [The Blockchain Dichotomy and an Architecture to Overcome It](https://hackernoon.com/the-blockchain-dichotomy-and-an-architecture-to-overcome-it-d2f75582bab4)
+* [Bitbucket + Bitrise: Configuring Continuous Integration for iOS apps](https://hackernoon.com/bitbucket-bitrise-configuring-continuous-integration-for-an-ios-app-8974474bca6b)
 
 ## Principles
 * [The Tyranny of Convenience: Welcome to the future we all chose, but that nobody seems to want](https://onezero.medium.com/the-tyranny-of-convenience-2e7fa145ab4)
@@ -73,3 +76,5 @@ Happy coding!
 * [What Seven Years at Airbnb Taught Me About Building a Business](https://medium.com/s/please-advise/what-seven-years-at-airbnb-taught-me-about-building-a-company-e1d035d49c56)
 * [This Question Will Change Your (Reading) Life](https://humanparts.medium.com/this-question-will-change-your-reading-life-a28c622c0c25)
 * [As a Leader, Time Is Your Most Valuable Resource](https://medium.com/s/please-advise/as-a-leader-time-is-your-most-valuable-resource-133ae50ccba4)
+* [How to Be an Artist: 33 rules to take you from clueless amateur to generational talent (or at least help you live life a little more creatively).](https://medium.com/vulture-magazine/how-to-be-an-artist-1ef7bb47f91a)
+* [How Mindless Phone Use Ruins Your Relationships](https://onezero.medium.com/how-mindless-phone-use-ruins-your-relationships-e2e521664cb9)
