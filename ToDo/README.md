@@ -1,4 +1,4 @@
-# List of Topics to Look into
+## Topics to Look Into
 
 * [Seeing Theory](https://seeing-theory.brown.edu/)
 * [Data Engineering GCP Coursera](https://www.coursera.org/specializations/gcp-data-machine-learning)
@@ -11,3 +11,24 @@
 * [Deconstructing Serverless Computing Part 1: A new layer of abstraction](https://hackernoon.com/deconstructing-serverless-computing-part-1-a-new-layer-of-abstraction-98c15334e4f7)
 
 * [bigml](https://bigml.com/ml101/)
+
+## Computer Science Fundamentals
+* memory
+* caching
+* multithreading
+* locking
+* virtual memory
+* networks
+
+## Types of Databases
+* wide colun store (aka column family database)
+* key value store
+* relational database
+  * row based
+  * column based
+* search engine
+* graph DBMS
+* [Reference](https://db-engines.com/en/articles)
+
+## Data Providers
+* [Panoply](https://panoply.io/)
