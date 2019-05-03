@@ -20,6 +20,8 @@
 * virtual memory
 * networks
 
+## Data Science
+
 ## Types of Databases
 * wide colun store (aka column family database)
 * key value store
@@ -30,5 +32,30 @@
 * graph DBMS
 * [Reference](https://db-engines.com/en/articles)
 
+### Data storage concepts
+* ACID
+* Star schema
+* Snowflake schema
+* data reliability 
+* distributed systems
+* pipeline:
+  * Ingestion — gathering the necessary data
+  * Processing — processing the data to get the end results
+  * Storage — storing the end results for fast retrieval
+  * Access — enable a tool or user to access the end results of pipeline
+* architect distributed systems
+* create reliable pipelines
+* combine data sources
+* architect data stores
+* collaborate with data science teams to build appropriate solutions for them
+* data engineer roles:
+  * Generalist
+  * Pipeline-centric
+  * Database-centric
+
 ## Data Providers
 * [Panoply](https://panoply.io/)
+
+## Overview
+* [Data warehouses](https://panoply.io/data-warehouse-guide/) by Panoply
+* [Data science field](https://www.mastersindatascience.org/) - Masters in data science
