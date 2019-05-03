@@ -19,6 +19,8 @@
 * locking
 * virtual memory
 * networks
+* concurrency
+* processes
 
 ## Data Science
 ![hierarchy of needs](../Media/hierarchy_of_needs.png?raw=true "Hierarchy of Data Science Needs")
@@ -27,6 +29,7 @@
 * key value store
 * relational database
   * row based
+    * indexing vs partitioning
   * column based
 * search engine
 * graph DBMS
