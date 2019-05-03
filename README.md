@@ -52,16 +52,7 @@ Happy coding!
 
   The availability of open Earth observation (EO) data through the Copernicus and Landsat programs represents an unprecedented resource for many EO applications, ranging from ocean and land use and land cover monitoring, disaster control, emergency services and humanitarian relief. Given the large amount of high spatial resolution data at high revisit frequency, techniques able to automatically extract complex patterns in such spatio-temporal data are needed."
   
-## Interview Questions
-  ### Data Science:
-  * [100 general data science Q&A](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184) - DeZyre
-  * [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/) - Analytics Vidhya
-  * [Top 100 Data science interview questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com) - Nitin Panwar's GitHub
-  * [109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science-interview-questions/) - Springboard
-  * [Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473) - RPubs
-  ### Data Engineering:
-  * [How I Passed the Google Cloud Professional Data Engineer Certification Exam](https://towardsdatascience.com/passing-the-google-cloud-professional-data-engineer-certification-87da9908b333)
-  
+
 ## Development Practice:
 * [Recurring Problems with Angular](https://medium.com/@michelestieven/angular-recurring-problems-i-face-as-a-front-end-consultant-d2a9c1826a3a)
 * [How I managed to control chaos with Laravel](https://medium.com/@josepostiga/how-i-managed-to-control-chaos-with-laravel-d47b9444a451)
