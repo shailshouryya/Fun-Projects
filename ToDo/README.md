@@ -18,12 +18,14 @@
 * networks
 * concurrency
 * processes
+* [A Guide to the Static Keyword in Java](https://www.baeldung.com/java-static)
 
 From javatpoint:
 * [operating systems](https://www.javatpoint.com/os-tutorial) in Java
 * [DBMS Tutorial](https://www.javatpoint.com/dbms-tutorial)
 * [Data structure tutorial](https://www.javatpoint.com/data-structure-tutorial)
 * [C++ tutorial](https://www.javatpoint.com/cpp-tutorial)
+
 
 ## Data Science
 ![hierarchy of needs](../Media/hierarchy_of_needs.png?raw=true "Hierarchy of Data Science Needs")
@@ -82,7 +84,6 @@ From javatpoint:
 * [Top 100 Data science interview questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com) - Nitin Panwar's GitHub
 * [109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science-interview-questions/) - Springboard
 * [Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473) - RPubs
-  
 * [SQL interview questions](https://www.javatpoint.com/sql-interview-questions)
 
   
