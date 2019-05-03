@@ -64,3 +64,4 @@
 * [Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7) by Robert Chang (Medium)
 * [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) - Technical paper
 * [What is NoSQL?](https://academy.datastax.com/planet-cassandra/what-is-nosql) - Datastax
+* [NoSQL Explained](https://www.mongodb.com/nosql-explained) - MongoDB
