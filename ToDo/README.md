@@ -52,6 +52,8 @@
   * Generalist
   * Pipeline-centric
   * Database-centric
+* [Eventual Consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
+* [Serializability](https://en.wikipedia.org/wiki/Serializability)
 
 ## Data Providers
 * [Panoply](https://panoply.io/)
