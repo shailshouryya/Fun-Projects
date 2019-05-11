@@ -76,7 +76,8 @@ Happy coding!
 * [These charts from Uber's IPO filing show why investors are nervous](https://www.cnbc.com/2019/05/10/uber-ipo-filing-shows-why-investors-nervous.html)
 
 
-## Topics to Look Into
+# Topics to Look Into
+## High Level
 * [Seeing Theory](https://seeing-theory.brown.edu/)
 * [Data Engineering GCP Coursera](https://www.coursera.org/specializations/gcp-data-machine-learning)
 * data structures and algorithms Udemy -> best data structures and algorithms tutorials
