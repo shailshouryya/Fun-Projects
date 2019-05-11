@@ -106,7 +106,7 @@ From javatpoint:
 
 
 ## Data Science
-![hierarchy of needs](../Media/hierarchy_of_needs.png?raw=true "Hierarchy of Data Science Needs")
+![hierarchy of needs](Media/hierarchy_of_needs.png?raw=true "Hierarchy of Data Science Needs")
 ## Types of Databases
 * wide colun store (aka column family database)
 * key value store
