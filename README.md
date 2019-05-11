@@ -69,3 +69,8 @@ Happy coding!
 * [As a Leader, Time Is Your Most Valuable Resource](https://medium.com/s/please-advise/as-a-leader-time-is-your-most-valuable-resource-133ae50ccba4)
 * [How to Be an Artist: 33 rules to take you from clueless amateur to generational talent (or at least help you live life a little more creatively).](https://medium.com/vulture-magazine/how-to-be-an-artist-1ef7bb47f91a)
 * [How Mindless Phone Use Ruins Your Relationships](https://onezero.medium.com/how-mindless-phone-use-ruins-your-relationships-e2e521664cb9)
+* [Facebook Data Scandals Stoke Criticism That a Privacy Watchdog Too Rarely Bites](https://www.nytimes.com/2018/12/30/technology/facebook-data-privacy-ftc.html?action=click&module=RelatedCoverage&pgtype=Article&region=Footer)
+* [It's Time to Break Up Facebook](https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html) - The New York Times *Opinion* by Chris Hughes: May 9, 2019
+* [How the Climate Plans of Presidential Hopefuls Stack Up](https://www.wired.com/story/only-two-democratic-presidential-hopefuls-have-a-climate-plan/)
+* [Could you live a low carbon life? Meet the people who already are](https://www.theguardian.com/uk-news/2019/may/04/carbon-cutting-zero-emissions-eco-warriors-damaged-world?utm_source=pocket-newtab)
+* [These charts from Uber's IPO filing show why investors are nervous](https://www.cnbc.com/2019/05/10/uber-ipo-filing-shows-why-investors-nervous.html)
