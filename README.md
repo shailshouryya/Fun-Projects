@@ -60,6 +60,7 @@ Happy coding!
 * [The Blockchain Dichotomy and an Architecture to Overcome It](https://hackernoon.com/the-blockchain-dichotomy-and-an-architecture-to-overcome-it-d2f75582bab4)
 * [Bitbucket + Bitrise: Configuring Continuous Integration for iOS apps](https://hackernoon.com/bitbucket-bitrise-configuring-continuous-integration-for-an-ios-app-8974474bca6b)
 * [Effective Ways to Avoid Code Quality Issues](https://hired.com/blog/candidates/4-ways-to-avoid-code-quality-issues/) - Mike Parker
+* [How to Reduce the Cost of an API Outage on Your Mobile App](https://www.programmableweb.com/news/how-to-reduce-cost-api-outage-your-mobile-app/sponsored-content/2019/05/13?utm_campaign=5-14-19%20%28Pw3Y88%29)
 
 ## Principles
 * [The Tyranny of Convenience: Welcome to the future we all chose, but that nobody seems to want](https://onezero.medium.com/the-tyranny-of-convenience-2e7fa145ab4)
@@ -75,6 +76,9 @@ Happy coding!
 * [How the Climate Plans of Presidential Hopefuls Stack Up](https://www.wired.com/story/only-two-democratic-presidential-hopefuls-have-a-climate-plan/)
 * [Could you live a low carbon life? Meet the people who already are](https://www.theguardian.com/uk-news/2019/may/04/carbon-cutting-zero-emissions-eco-warriors-damaged-world?utm_source=pocket-newtab)
 * [These charts from Uber's IPO filing show why investors are nervous](https://www.cnbc.com/2019/05/10/uber-ipo-filing-shows-why-investors-nervous.html)
+
+## Serverless Development
+* [Executive's guide to serverless architecture](https://www.zdnet.com/article/executives-guide-to-serverless-architecture/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958)
 
 
 # Topics to Look Into
