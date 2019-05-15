@@ -31,6 +31,7 @@ Happy coding!
 ### Data Science:
 * [Siraj Raval's curriculum for learning data science in 3 months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months) - YouTube Video: [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA&feature=youtu.be)
 * [Object Detection Tutorial in TensorFlow: Real-Time Object Detection](https://www.edureka.co/blog/tensorflow-object-detection-tutorial/)
+* [Extreme Rare Event Classification using Autoencoders in Keras](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098) - In this post, we will learn how to implement an autoencoder for building a rare-event classifier. We will use a real-world rare event dataset from [here](https://arxiv.org/abs/1809.10717).
 
 ### Programming:
 * [Python Programming Exercises by zhiwehu](https://github.com/zhiwehu/Python-programming-exercises)
@@ -84,7 +85,9 @@ Happy coding!
 
 ## Serverless Development
 * [Executive's guide to serverless architecture](https://www.zdnet.com/article/executives-guide-to-serverless-architecture/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958)
-
+* [Serverless computing vs platform-as-a-service: Which is right for your business?](https://www.zdnet.com/article/serverless-computing-vs-platform-as-a-service-which-is-right-for-your-business/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958) - By James Sanders | May 1, 2019 -- 14:52 GMT (07:52 PDT) | Topic: Prepare for Serverless Computing | Understanding the difference between serverless computing and PaaS is the first step in deciding which is best for your organization. 
+* [What serverless computing really means, and everything else you need to know](https://www.zdnet.com/article/what-serverless-computing-really-means-and-everything-else-you-need-to-know/) - By Scott Fulton III | April 9, 2019 -- 17:44 GMT (10:44 PDT) | Topic: Prepare for Serverless Computing | Serverless architecture is a style of programming for cloud platforms that's changing the way applications are built, deployed, and - ultimately - consumed. So where do servers enter the picture?
+* [How to build a serverless architecture](https://www.zdnet.com/article/how-to-build-a-serverless-architecture/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958) - By Joe McKendrick | May 1, 2019 -- 14:53 GMT (07:53 PDT) | Topic: Prepare for Serverless Computing | A serverless architecture can mean lower costs and greater agility, but you’ll still need to make a business case and consider factors like security and storage before migrating selected workloads.
 
 # Topics to Look Into
 ## High Level
