@@ -19,6 +19,7 @@ Happy coding!
 * [Data Science cheatsheets by FavioVazquez](https://github.com/FavioVazquez/ds-cheatsheets#sql)
 * [Data Science Cheatsheets Expanded by abhat222](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 * [CME 106 ― Introduction to Probability and Statistics for Engineers](https://stanford.edu/~shervine/teaching/cme-106/)
+* [Artificial Intelligence and Deep Learning](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/) - Gitbook by Leonardoraujosantos
 
 ## Git Resources:
 * Undoing local Git commits:
@@ -29,6 +30,8 @@ Happy coding!
 ## Learning
 ### Data Science:
 * [Siraj Raval's curriculum for learning data science in 3 months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months) - YouTube Video: [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA&feature=youtu.be)
+* [Object Detection Tutorial in TensorFlow: Real-Time Object Detection](https://www.edureka.co/blog/tensorflow-object-detection-tutorial/)
+
 ### Programming:
 * [Python Programming Exercises by zhiwehu](https://github.com/zhiwehu/Python-programming-exercises)
 
@@ -61,6 +64,8 @@ Happy coding!
 * [Bitbucket + Bitrise: Configuring Continuous Integration for iOS apps](https://hackernoon.com/bitbucket-bitrise-configuring-continuous-integration-for-an-ios-app-8974474bca6b)
 * [Effective Ways to Avoid Code Quality Issues](https://hired.com/blog/candidates/4-ways-to-avoid-code-quality-issues/) - Mike Parker
 * [How to Reduce the Cost of an API Outage on Your Mobile App](https://www.programmableweb.com/news/how-to-reduce-cost-api-outage-your-mobile-app/sponsored-content/2019/05/13?utm_campaign=5-14-19%20%28Pw3Y88%29)
+* [Zero Configuration Deployment with Surge, Now, and Glitch](https://alligator.io/workflow/single-line-deployment/)
+* [JavaScript Bundlers, a Comparison: How do JavaScript bundlers stack up against each other?](https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364)
 
 ## Principles
 * [The Tyranny of Convenience: Welcome to the future we all chose, but that nobody seems to want](https://onezero.medium.com/the-tyranny-of-convenience-2e7fa145ab4)
