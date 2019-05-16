@@ -52,6 +52,7 @@ Happy coding!
 
   "Mastodon is a free, open-source social network server based on ActivityPub. Follow friends and discover new ones. Publish anything you want: links, pictures, text, video. All servers of Mastodon are interoperable as a federated network, i.e. users on one server can seamlessly communicate with users from another one. This includes non-Mastodon software that also implements ActivityPub!"
 * [Apache Thrift GitHub Page](https://github.com/apache/thrift)
+
   "Thrift is a lightweight, language-independent software stack with an associated code generation mechanism for point-to-point RPC. Thrift provides clean abstractions for data transport, data serialization, and application level processing. The code generation system takes a simple definition language as input and generates code across programming languages that uses the abstracted stack to build interoperable RPC clients and servers."
 * [disentaglement_lib](https://github.com/google-research/disentanglement_lib)
 
