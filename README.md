@@ -84,6 +84,8 @@ Happy coding!
 * [How production friendly and ready is your Angular app?](https://itnext.io/how-production-friendly-and-ready-is-your-angular-app-7496d4e89a69) Because Angular is fat. Like, really fat. Aphinya Dechalert; April 14, 2019
 
 #### React
+* [You probably shouldn’t be using React](https://blog.usejournal.com/you-probably-shouldt-be-using-react-2f45ca487c8e) - Austin Tindle; May 2, 2019
+  * Point of contention: abstracting away concepts before you ever learn them makes it hard for you to optimize your code since the smallest, "low-level" piece of code you understand is the abstraction of JavaScript; valid point, you should definitely try to understand how things work in JavaScript *eventually*, especially when working with larger, more complicated projects where the production size of app affects load times for users
 
 #### CSS
 * [The CSS Handbook: a handy guide to CSS for developers](https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11)
@@ -102,6 +104,10 @@ Happy coding!
 * [How the Climate Plans of Presidential Hopefuls Stack Up](https://www.wired.com/story/only-two-democratic-presidential-hopefuls-have-a-climate-plan/)
 * [Could you live a low carbon life? Meet the people who already are](https://www.theguardian.com/uk-news/2019/may/04/carbon-cutting-zero-emissions-eco-warriors-damaged-world?utm_source=pocket-newtab)
 * [These charts from Uber's IPO filing show why investors are nervous](https://www.cnbc.com/2019/05/10/uber-ipo-filing-shows-why-investors-nervous.html)
+* [Do You Know What Happens to Your Data?](https://hackernoon.com/do-you-know-what-happens-to-your-data-17cae340af80) - John Demian; May 1, 2019
+* [Ethical and Legal Questions Around Online Gaming](https://hackernoon.com/ethical-and-legal-questions-around-online-gaming-7533d0c51ff2): Gaming used to be pure, escapist entertainment, but online gaming has introduced ethical and legal questions that have yet to be settled. Andrej Kovačević; May 15, 2019
+* [How to Prioritize Your SEO Efforts Right Now](https://hackernoon.com/how-to-prioritize-your-seo-efforts-right-now-c83a899288e8) - sudhanshu kumar; May 15, 2019
+* [Going from FrAgile to Agile with the stakeholders](https://hackernoon.com/going-from-fragile-to-agile-with-the-stakeholders-buy-in-bb1012502f8d?source=rss----3a8144eabfe3---4) - Author took story down
 
 ## Serverless Development
 * [Executive's guide to serverless architecture](https://www.zdnet.com/article/executives-guide-to-serverless-architecture/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958)
