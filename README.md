@@ -64,6 +64,10 @@ Happy coding!
 * [Effective Ways to Avoid Code Quality Issues](https://hired.com/blog/candidates/4-ways-to-avoid-code-quality-issues/) - Mike Parker
 * [How to Reduce the Cost of an API Outage on Your Mobile App](https://www.programmableweb.com/news/how-to-reduce-cost-api-outage-your-mobile-app/sponsored-content/2019/05/13?utm_campaign=5-14-19%20%28Pw3Y88%29)
 
+### C++
+* [Some awesome modern C++ features that every developer should know](https://medium.freecodecamp.org/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c) …don’t miss out! M Chowdhury; May 8, 2019
+* [How I discovered the C++ algorithm library and learned not to reinvent the wheel](https://medium.freecodecamp.org/how-i-discovered-the-c-algorithm-library-and-learned-not-to-reinvent-the-wheel-2398a34e23e3) - M Chowdhury; April 5, 2019
+
 ### Front-End
 * [Zero Configuration Deployment with Surge, Now, and Glitch](https://alligator.io/workflow/single-line-deployment/)
 * [JavaScript Bundlers, a Comparison: How do JavaScript bundlers stack up against each other?](https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364)
@@ -73,10 +77,10 @@ Happy coding!
 * [Vanilla JavaScript Pocket Guides](https://vanillajsguides.com/) - Everything you need to master JavaScript.
 
 #### Angular
-* [Angular: Recurring problems I face as a Front-End Consultant](https://medium.com/@michelestieven/angular-recurring-problems-i-face-as-a-front-end-consultant-d2a9c1826a3a) - Michele Stieven; Apr 26, 2019
+* [Angular: Recurring problems I face as a Front-End Consultant](https://medium.com/@michelestieven/angular-recurring-problems-i-face-as-a-front-end-consultant-d2a9c1826a3a) - Michele Stieven; April 26, 2019
 * [Why are developers still using Angular?](https://medium.com/@PurpleGreenLemon/why-are-developers-still-using-angular-b9ef29d1f97f) especially when everyone seems to be wanting React - Aphinya Dechalert; May 13, 2019
 * [The top benefits of using Angular for your project](https://medium.freecodecamp.org/the-top-benefits-of-using-angular-for-your-project-ad54090df85c) - Irina Sidorenko; March 25, 2019
-* [Understanding Angular Modules](https://itnext.io/understanding-angular-modules-5f1215130bc8): A quick but comprehensive guide for understanding the different types of Angular Modules - Giancarlo Buomprisco; Apr 29, 2019
+* [Understanding Angular Modules](https://itnext.io/understanding-angular-modules-5f1215130bc8): A quick but comprehensive guide for understanding the different types of Angular Modules - Giancarlo Buomprisco; April 29, 2019
 * [How production friendly and ready is your Angular app?](https://itnext.io/how-production-friendly-and-ready-is-your-angular-app-7496d4e89a69) Because Angular is fat. Like, really fat. Aphinya Dechalert; April 14, 2019
 
 #### React
