@@ -85,6 +85,10 @@ Happy coding!
 * [Some awesome modern C++ features that every developer should know](https://medium.freecodecamp.org/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c) …don’t miss out! M Chowdhury; May 8, 2019
 * [How I discovered the C++ algorithm library and learned not to reinvent the wheel](https://medium.freecodecamp.org/how-i-discovered-the-c-algorithm-library-and-learned-not-to-reinvent-the-wheel-2398a34e23e3) - M Chowdhury; April 5, 2019
 
+### Python
+* [How to Automatically Import Your Favorite Libraries into IPython or a Jupyter Notebook](https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343): No more typing “import pandas as pd” 10 times a day. Will Koehrsen; Feb 14, 2019
+* [An A-Z of useful Python tricks](https://medium.freecodecamp.org/an-a-z-of-useful-python-tricks-b467524ee747) - Peter Gleeson; August 28, 2018
+
 ### Front-End
 * [Zero Configuration Deployment with Surge, Now, and Glitch](https://alligator.io/workflow/single-line-deployment/)
 * [JavaScript Bundlers, a Comparison: How do JavaScript bundlers stack up against each other?](https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364)
