@@ -58,15 +58,31 @@ Happy coding!
   
 
 ## Development Practice:
-* [Recurring Problems with Angular](https://medium.com/@michelestieven/angular-recurring-problems-i-face-as-a-front-end-consultant-d2a9c1826a3a)
 * [How I managed to control chaos with Laravel](https://medium.com/@josepostiga/how-i-managed-to-control-chaos-with-laravel-d47b9444a451)
-* [The CSS Handbook: a handy guide to CSS for developers](https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11)
 * [The Blockchain Dichotomy and an Architecture to Overcome It](https://hackernoon.com/the-blockchain-dichotomy-and-an-architecture-to-overcome-it-d2f75582bab4)
 * [Bitbucket + Bitrise: Configuring Continuous Integration for iOS apps](https://hackernoon.com/bitbucket-bitrise-configuring-continuous-integration-for-an-ios-app-8974474bca6b)
 * [Effective Ways to Avoid Code Quality Issues](https://hired.com/blog/candidates/4-ways-to-avoid-code-quality-issues/) - Mike Parker
 * [How to Reduce the Cost of an API Outage on Your Mobile App](https://www.programmableweb.com/news/how-to-reduce-cost-api-outage-your-mobile-app/sponsored-content/2019/05/13?utm_campaign=5-14-19%20%28Pw3Y88%29)
+
+### Front-End
 * [Zero Configuration Deployment with Surge, Now, and Glitch](https://alligator.io/workflow/single-line-deployment/)
 * [JavaScript Bundlers, a Comparison: How do JavaScript bundlers stack up against each other?](https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364)
+* [RxJS](https://rxjs.dev/): Reactive Extensions Library for JavaScript
+
+#### JavaScript
+* [Vanilla JavaScript Pocket Guides](https://vanillajsguides.com/) - Everything you need to master JavaScript.
+
+#### Angular
+* [Angular: Recurring problems I face as a Front-End Consultant](https://medium.com/@michelestieven/angular-recurring-problems-i-face-as-a-front-end-consultant-d2a9c1826a3a) - Michele Stieven; Apr 26, 2019
+* [Why are developers still using Angular?](https://medium.com/@PurpleGreenLemon/why-are-developers-still-using-angular-b9ef29d1f97f) especially when everyone seems to be wanting React - Aphinya Dechalert; May 13, 2019
+* [The top benefits of using Angular for your project](https://medium.freecodecamp.org/the-top-benefits-of-using-angular-for-your-project-ad54090df85c) - Irina Sidorenko; March 25, 2019
+* [Understanding Angular Modules](https://itnext.io/understanding-angular-modules-5f1215130bc8): A quick but comprehensive guide for understanding the different types of Angular Modules - Giancarlo Buomprisco; Apr 29, 2019
+* [How production friendly and ready is your Angular app?](https://itnext.io/how-production-friendly-and-ready-is-your-angular-app-7496d4e89a69) Because Angular is fat. Like, really fat. Aphinya Dechalert; April 14, 2019
+
+#### React
+
+#### CSS
+* [The CSS Handbook: a handy guide to CSS for developers](https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11)
 
 ## Principles
 * [The Tyranny of Convenience: Welcome to the future we all chose, but that nobody seems to want](https://onezero.medium.com/the-tyranny-of-convenience-2e7fa145ab4)
