@@ -77,6 +77,9 @@ Happy coding!
 * [Bitbucket + Bitrise: Configuring Continuous Integration for iOS apps](https://hackernoon.com/bitbucket-bitrise-configuring-continuous-integration-for-an-ios-app-8974474bca6b)
 * [Effective Ways to Avoid Code Quality Issues](https://hired.com/blog/candidates/4-ways-to-avoid-code-quality-issues/) - Mike Parker
 * [How to Reduce the Cost of an API Outage on Your Mobile App](https://www.programmableweb.com/news/how-to-reduce-cost-api-outage-your-mobile-app/sponsored-content/2019/05/13?utm_campaign=5-14-19%20%28Pw3Y88%29)
+* [The fine art of fast development](https://hackernoon.com/the-fine-art-of-fast-development-f3b1abb509da) - David Gilbertson; May 5, 2019
+* [Keeping up with AI in 2019](https://medium.com/thelaunchpad/what-is-the-next-big-thing-in-ai-and-ml-904a3f3345ef): What is the next big thing in AI and ML? Max Grigorev; Feb 14, 2019
+* [We Don’t Need Social Media](https://onezero.medium.com/we-dont-need-social-media-53d5455f4f6b):The push to regulate or break up Facebook ignores the fact that its services do more harm than good. Colin Horgan; May 13, 2019
 
 ### C++
 * [Some awesome modern C++ features that every developer should know](https://medium.freecodecamp.org/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c) …don’t miss out! M Chowdhury; May 8, 2019
