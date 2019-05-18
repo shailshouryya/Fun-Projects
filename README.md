@@ -79,7 +79,9 @@ Happy coding!
 * [How to Reduce the Cost of an API Outage on Your Mobile App](https://www.programmableweb.com/news/how-to-reduce-cost-api-outage-your-mobile-app/sponsored-content/2019/05/13?utm_campaign=5-14-19%20%28Pw3Y88%29)
 * [The fine art of fast development](https://hackernoon.com/the-fine-art-of-fast-development-f3b1abb509da) - David Gilbertson; May 5, 2019
 * [Keeping up with AI in 2019](https://medium.com/thelaunchpad/what-is-the-next-big-thing-in-ai-and-ml-904a3f3345ef): What is the next big thing in AI and ML? Max Grigorev; Feb 14, 2019
-* [We Don’t Need Social Media](https://onezero.medium.com/we-dont-need-social-media-53d5455f4f6b):The push to regulate or break up Facebook ignores the fact that its services do more harm than good. Colin Horgan; May 13, 2019
+* [Will Quantum Computers Ever Replace The Humble PC in Our Living Rooms?](https://hackernoon.com/will-quantum-computers-ever-replace-the-humble-pc-in-our-living-rooms-8eec7afe968) - HackerNoon, James Dargan; May 15, 2019
+  * Once only accessible to researchers at universities around the world, beginning in the late 1970s, the PC — due to a shift in size and cost — became easily available to the masses. Now that we are on the cusp of the age of quantum computers, will the same thing happen to them?
+  * Personal Take: The use case for quantum computing seems to be very different than the use case of our traditional computers, so this seems slightly misguided - as of now at least
 
 ### C++
 * [Some awesome modern C++ features that every developer should know](https://medium.freecodecamp.org/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c) …don’t miss out! M Chowdhury; May 8, 2019
@@ -129,6 +131,9 @@ Happy coding!
 * [Ethical and Legal Questions Around Online Gaming](https://hackernoon.com/ethical-and-legal-questions-around-online-gaming-7533d0c51ff2): Gaming used to be pure, escapist entertainment, but online gaming has introduced ethical and legal questions that have yet to be settled. Andrej Kovačević; May 15, 2019
 * [How to Prioritize Your SEO Efforts Right Now](https://hackernoon.com/how-to-prioritize-your-seo-efforts-right-now-c83a899288e8) - sudhanshu kumar; May 15, 2019
 * [Going from FrAgile to Agile with the stakeholders](https://hackernoon.com/going-from-fragile-to-agile-with-the-stakeholders-buy-in-bb1012502f8d?source=rss----3a8144eabfe3---4) - Author took story down
+* [We Don’t Need Social Media](https://onezero.medium.com/we-dont-need-social-media-53d5455f4f6b):The push to regulate or break up Facebook ignores the fact that its services do more harm than good. Colin Horgan; May 13, 2019
+* [Letter from Silicon Valley: Jack Dorsey’s TED Interview and the End of an Era](https://www.newyorker.com/news/letter-from-silicon-valley/jack-dorseys-ted-interview-and-the-end-of-an-era) - The New Yorker, By Anna Wiener; April 27, 2019
+* [Letter from Silicon Valley: In San Francisco, Tech Money Doesn’t Buy Happiness](https://www.newyorker.com/news/letter-from-silicon-valley/in-san-francisco-tech-money-doesnt-buy-happiness?utm_source=pocket-newtab) - The New Yorker, By Anna Wiener; May 17, 2019
 
 ## Serverless Development
 * [Executive's guide to serverless architecture](https://www.zdnet.com/article/executives-guide-to-serverless-architecture/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958)
