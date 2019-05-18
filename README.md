@@ -134,7 +134,21 @@ Happy coding!
 * [Executive's guide to serverless architecture](https://www.zdnet.com/article/executives-guide-to-serverless-architecture/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958)
 * [Serverless computing vs platform-as-a-service: Which is right for your business?](https://www.zdnet.com/article/serverless-computing-vs-platform-as-a-service-which-is-right-for-your-business/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958) - By James Sanders | May 1, 2019 -- 14:52 GMT (07:52 PDT) | Topic: Prepare for Serverless Computing | Understanding the difference between serverless computing and PaaS is the first step in deciding which is best for your organization. 
 * [What serverless computing really means, and everything else you need to know](https://www.zdnet.com/article/what-serverless-computing-really-means-and-everything-else-you-need-to-know/) - By Scott Fulton III | April 9, 2019 -- 17:44 GMT (10:44 PDT) | Topic: Prepare for Serverless Computing | Serverless architecture is a style of programming for cloud platforms that's changing the way applications are built, deployed, and - ultimately - consumed. So where do servers enter the picture?
-* [How to build a serverless architecture](https://www.zdnet.com/article/how-to-build-a-serverless-architecture/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958) - By Joe McKendrick | May 1, 2019 -- 14:53 GMT (07:53 PDT) | Topic: Prepare for Serverless Computing | A serverless architecture can mean lower costs and greater agility, but you’ll still need to make a business case and consider factors like security and storage before migrating selected workloads.
+* [How to build a serverless architecture](https://www.zdnet.com/article/how-to-build-a-serverless-architecture/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958) - By Joe McKendrick | May 1, 2019 -- 14:53 GMT (07:53 PDT) | Topic: Prepare for Serverless Computing | A serverless architecture can mean lower costs and greater agility, but you’ll still need to make a business case and consider factors like security and storage before migrating selected workloads
+
+## Security
+* [SHA-1 collision attacks are now actually practical and a looming danger](https://www.zdnet.com/article/sha-1-collision-attacks-are-now-actually-practical-and-a-looming-danger/) - ZDNet, Catalin Cimpanu for Zero Day | May 13, 2019 -- 04:30 GMT (21:30 PDT) | Topic: Security
+  * Research duo showcases chosen-prefix collision attack against SHA-1.
+* [The best mobile VPNs can ensure your privacy anywhere](https://www.zdnet.com/article/what-you-must-know-about-mobile-vpns-to-protect-your-privacy/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958) - ZDNet, By Steven J. Vaughan-Nichols for Networking | February 25, 2018 -- 15:03 GMT (07:03 PST) | Topic: Securing Your Mobile Enterprise
+  * Going mobile? Stay secure. Here's how find an effective VPN service. (Hint: You can't trust every VPN provider.)
+* [Intel CPUs impacted by new Zombieload side-channel attack](https://www.zdnet.com/article/intel-cpus-impacted-by-new-zombieload-side-channel-attack/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958) - ZDNet, By Catalin Cimpanu for Zero Day | May 14, 2019 -- 17:00 GMT (10:00 PDT) | Topic: Security
+  * Researchers, academics detail new Microarchitectural Data Sampling (MDS) attacks.
+* [Over 25,000 smart Linksys routers are leaking sensitive data](https://www.zdnet.com/article/over-2500-smart-linksys-routers-may-leak-owners-sensitive-data/) - ZDNet, By Charlie Osborne for Zero Day | May 14, 2019 -- 10:33 GMT (03:33 PDT) | Topic: Security
+  * Updated: A security flaw grants remote access to router information.
+* [Thrangrycat flaw lets attackers plant persistent backdoors on Cisco gear](https://www.zdnet.com/article/thrangrycat-flaw-lets-attackers-plant-persistent-backdoors-on-cisco-gear/) - ZDNet, By Catalin Cimpanu for Zero Day | May 13, 2019 -- 21:18 GMT (14:18 PDT) | Topic: Security
+  * Most Cisco gear is believed to be impacted. No attacks detected, as of yet.
+* [Security flaws in 100+ Jenkins plugins put enterprise networks at risk](https://www.zdnet.com/article/security-flaws-in-100-jenkins-plugins-put-enterprise-networks-at-risk/) - By Catalin Cimpanu for Zero Day | May 3, 2019 -- 17:40 GMT (10:40 PDT) | Topic: Security
+  * NCC Group researcher finds security flaws impacting more than 100 Jenkins plugins.
 
 # Topics to Look Into
 ## High Level
