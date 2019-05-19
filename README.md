@@ -223,6 +223,9 @@ From javatpoint:
 
 ### Data Engineering:
 * [How I Passed the Google Cloud Professional Data Engineer Certification Exam](https://towardsdatascience.com/passing-the-google-cloud-professional-data-engineer-certification-87da9908b333)
+* object relational impedance
+* data persistance
+* data integrity problems
 
 ## Data Providers
 * [Panoply](https://panoply.io/)
