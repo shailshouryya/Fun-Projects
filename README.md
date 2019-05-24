@@ -170,8 +170,6 @@ Happy coding!
   * Second only to AWS among cloud providers, Microsoft Azure is an ever-expanding set of cloud-based computing services available to businesses, developers, government agencies, and anyone who wants to build an app or run an enterprise without having to manage hardware.
 * [What makes Google Cloud Platform unique compared to Azure and Amazon](https://www.zdnet.com/article/what-makes-google-cloud-platform-unique-compared-to-azure-and-amazon/) - ZDNet, By Scott Fulton III | May 20, 2019 -- 16:31 GMT (09:31 PDT) | Topic: Executive Guides -- Since the 1980s, there’s been a rule that three major competitors don’t last long in a technology market. For Google to stay relevant and remain in contention, it has to keep innovating and changing the rules.
 
-
-
 ## Security
 * [SHA-1 collision attacks are now actually practical and a looming danger](https://www.zdnet.com/article/sha-1-collision-attacks-are-now-actually-practical-and-a-looming-danger/) - ZDNet, Catalin Cimpanu for Zero Day | May 13, 2019 -- 04:30 GMT (21:30 PDT) | Topic: Security
   * Research duo showcases chosen-prefix collision attack against SHA-1.
@@ -189,6 +187,8 @@ Happy coding!
 * [Google changes how the Escape key is handled in Chrome to fight popup ads](https://www.zdnet.com/article/google-changes-how-the-escape-key-is-handled-in-chrome-to-fight-popup-ads/) - ZDNet, By Catalin Cimpanu for Zero Day | May 20, 2019 -- 17:02 GMT (10:02 PDT) | Topic: Security -- Google Chrome v76 is getting a new security feature to fight popup spam.
 * [Google research: Most hacker-for-hire services are frauds](https://www.zdnet.com/article/google-research-most-hacker-for-hire-services-are-frauds/) - ZDNet, By Catalin Cimpanu for Zero Day | May 20, 2019 -- 22:11 GMT (15:11 PDT) | Topic: Security -- Survey of 27 hacker-for-hire services found that only five launched attacks against victims.
 * [Root account misconfigurations found in 20% of top 1,000 Docker containers](https://www.zdnet.com/article/root-account-misconfigurations-found-in-20-of-top-1000-docker-containers/) - ZDNet, By Catalin Cimpanu for Zero Day | May 21, 2019 -- 04:15 GMT (21:15 PDT) | Topic: Security -- Issue similar to Alpine Linux's CVE-2019-5021 impacts 194 other Docker images.
+* [Why post-quantum encryption will be critical to protect current classical computers](https://www.techrepublic.com/article/why-post-quantum-encryption-will-be-critical-to-protect-current-classical-computers/) - ZDNet, By James Sanders in Security on May 21, 2019, 5:50 AM PST
+  * Quantum computers are theorized to be capable of breaking RSA encryption. Experts disagree on when it could happen, but agree on a need for quantum-proof encryption. 
 
 ## Privacy
 * [GDPR, USA? Microsoft says US should match the EU's digital privacy law](https://www.zdnet.com/article/gdpr-usa-microsoft-says-us-should-match-the-eus-digital-privacy-law/) - ZDNet, By Liam Tung | May 21, 2019 -- 12:12 GMT (05:12 PDT) | Topic: Innovation -- Microsoft ratchets up its lobbying for federal EU-style privacy laws for the US.
