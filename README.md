@@ -109,6 +109,7 @@ Happy coding!
 * [Zero Configuration Deployment with Surge, Now, and Glitch](https://alligator.io/workflow/single-line-deployment/)
 * [JavaScript Bundlers, a Comparison: How do JavaScript bundlers stack up against each other?](https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364)
 * [RxJS](https://rxjs.dev/): Reactive Extensions Library for JavaScript
+* [Replacing JavaScript: How eBay made a web app 50x faster by switching programming languages](https://www.techrepublic.com/article/replacing-javascript-with-webassembly-how-ebay-made-a-web-app-50x-faster-by-switching-programming-languages/) - TechRepublic, By Nick Heath in Developer on May 23, 2019, 5:02 AM PST -- And why JavaScript still has an important role to play. 
 
 #### JavaScript
 * [Vanilla JavaScript Pocket Guides](https://vanillajsguides.com/) - Everything you need to master JavaScript.
