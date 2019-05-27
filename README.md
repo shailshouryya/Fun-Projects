@@ -104,6 +104,7 @@ Happy coding!
 * [Vanilla JavaScript Pocket Guides](https://vanillajsguides.com/) - Everything you need to master JavaScript.
 * [10 Interview Questions Every JavaScript Developer Should Know: AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) - JavaScript Scene (Medium), Eric Elliott; October 2, 2015
 * [How Popular is JavaScript in 2019?](https://medium.com/javascript-scene/how-popular-is-javascript-in-2019-823712f7c4b1) - JavaScript Scene (Medium), Eric Elliott; May 10, 2019
+* [Writing a simple transpiler in JavaScript: Lambda calculus to JS, the transpiler everyone was crying out for.](https://medium.com/@stephen.leigh/writing-a-simple-transpiler-in-javascript-3c34ccb99e74) - Javascript (Medium), Stephen Leigh; May 21, 2019
 
 #### Angular
 * [Angular: Recurring problems I face as a Front-End Consultant](https://medium.com/@michelestieven/angular-recurring-problems-i-face-as-a-front-end-consultant-d2a9c1826a3a) - Michele Stieven; April 26, 2019
