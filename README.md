@@ -162,6 +162,7 @@ Happy coding!
   * Most Cisco gear is believed to be impacted. No attacks detected, as of yet.
 * [Security flaws in 100+ Jenkins plugins put enterprise networks at risk](https://www.zdnet.com/article/security-flaws-in-100-jenkins-plugins-put-enterprise-networks-at-risk/) - By Catalin Cimpanu for Zero Day | May 3, 2019 -- 17:40 GMT (10:40 PDT) | Topic: Security
   * NCC Group researcher finds security flaws impacting more than 100 Jenkins plugins.
+* [How to avoid ruining lives (front-end security matters)](https://blog.usejournal.com/how-to-avoid-ruining-lives-front-end-security-matters-26d4f906c7a6) - Noteworthy - The Journal Blog (Medium), Luke Mayhew; April 30, 2019
 
 # Topics to Look Into
 ## High Level
