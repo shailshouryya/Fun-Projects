@@ -84,6 +84,8 @@ Happy coding!
 * [Will Quantum Computers Ever Replace The Humble PC in Our Living Rooms?](https://hackernoon.com/will-quantum-computers-ever-replace-the-humble-pc-in-our-living-rooms-8eec7afe968) - HackerNoon, James Dargan; May 15, 2019
   * Once only accessible to researchers at universities around the world, beginning in the late 1970s, the PC — due to a shift in size and cost — became easily available to the masses. Now that we are on the cusp of the age of quantum computers, will the same thing happen to them?
   * Personal Take: The use case for quantum computing seems to be very different than the use case of our traditional computers, so this seems slightly misguided - as of now at least
+* [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) - JavaScript Scene (Medium), Eric Elliott; May 17, 2017
+* [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) - JavaScript Scene (Medium), Eric Elliott; April 18, 2019
 
 ### C++
 * [Some awesome modern C++ features that every developer should know](https://medium.freecodecamp.org/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c) …don’t miss out! M Chowdhury; May 8, 2019
@@ -100,6 +102,8 @@ Happy coding!
 
 #### JavaScript
 * [Vanilla JavaScript Pocket Guides](https://vanillajsguides.com/) - Everything you need to master JavaScript.
+* [10 Interview Questions Every JavaScript Developer Should Know: AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) - JavaScript Scene (Medium), Eric Elliott; October 2, 2015
+* [How Popular is JavaScript in 2019?](https://medium.com/javascript-scene/how-popular-is-javascript-in-2019-823712f7c4b1) - JavaScript Scene (Medium), Eric Elliott; May 10, 2019
 
 #### Angular
 * [Angular: Recurring problems I face as a Front-End Consultant](https://medium.com/@michelestieven/angular-recurring-problems-i-face-as-a-front-end-consultant-d2a9c1826a3a) - Michele Stieven; April 26, 2019
