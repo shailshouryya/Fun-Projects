@@ -141,6 +141,11 @@ Happy coding!
 * [Serverless computing vs platform-as-a-service: Which is right for your business?](https://www.zdnet.com/article/serverless-computing-vs-platform-as-a-service-which-is-right-for-your-business/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958) - By James Sanders | May 1, 2019 -- 14:52 GMT (07:52 PDT) | Topic: Prepare for Serverless Computing | Understanding the difference between serverless computing and PaaS is the first step in deciding which is best for your organization. 
 * [What serverless computing really means, and everything else you need to know](https://www.zdnet.com/article/what-serverless-computing-really-means-and-everything-else-you-need-to-know/) - By Scott Fulton III | April 9, 2019 -- 17:44 GMT (10:44 PDT) | Topic: Prepare for Serverless Computing | Serverless architecture is a style of programming for cloud platforms that's changing the way applications are built, deployed, and - ultimately - consumed. So where do servers enter the picture?
 * [How to build a serverless architecture](https://www.zdnet.com/article/how-to-build-a-serverless-architecture/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958) - By Joe McKendrick | May 1, 2019 -- 14:53 GMT (07:53 PDT) | Topic: Prepare for Serverless Computing | A serverless architecture can mean lower costs and greater agility, but you’ll still need to make a business case and consider factors like security and storage before migrating selected workloads
+* [What Google Cloud Platform is and why you’d use it](https://www.zdnet.com/article/what-google-cloud-platform-is-and-why-youd-use-it/) - By Scott Fulton III | May 20, 2019 -- 15:31 GMT (08:31 PDT) | Topic: Executive Guides
+  * The challenger in any competitive market has greater incentive to produce sharper and more customer-focused products and services. Google has to make a bigger splash, and for a company that isn’t known for being flashy, it’s not doing a bad job.
+
+
+
 
 ## Security
 * [SHA-1 collision attacks are now actually practical and a looming danger](https://www.zdnet.com/article/sha-1-collision-attacks-are-now-actually-practical-and-a-looming-danger/) - ZDNet, Catalin Cimpanu for Zero Day | May 13, 2019 -- 04:30 GMT (21:30 PDT) | Topic: Security
