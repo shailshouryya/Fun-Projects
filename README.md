@@ -171,6 +171,8 @@ Happy coding!
   * NCC Group researcher finds security flaws impacting more than 100 Jenkins plugins.
 * [How to avoid ruining lives (front-end security matters)](https://blog.usejournal.com/how-to-avoid-ruining-lives-front-end-security-matters-26d4f906c7a6) - Noteworthy - The Journal Blog (Medium), Luke Mayhew; April 30, 2019
 
+***
+***
 # Topics to Look Into
 ## High Level
 * [Seeing Theory](https://seeing-theory.brown.edu/)
