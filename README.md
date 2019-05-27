@@ -134,6 +134,7 @@ Happy coding!
 * [We Don’t Need Social Media](https://onezero.medium.com/we-dont-need-social-media-53d5455f4f6b):The push to regulate or break up Facebook ignores the fact that its services do more harm than good. Colin Horgan; May 13, 2019
 * [Letter from Silicon Valley: Jack Dorsey’s TED Interview and the End of an Era](https://www.newyorker.com/news/letter-from-silicon-valley/jack-dorseys-ted-interview-and-the-end-of-an-era) - The New Yorker, By Anna Wiener; April 27, 2019
 * [Letter from Silicon Valley: In San Francisco, Tech Money Doesn’t Buy Happiness](https://www.newyorker.com/news/letter-from-silicon-valley/in-san-francisco-tech-money-doesnt-buy-happiness?utm_source=pocket-newtab) - The New Yorker, By Anna Wiener; May 17, 2019
+* [The One Word that Negates What Harvard Professor Says is Leadership's Central Issue](https://www.linkedin.com/pulse/one-word-negate-what-harvard-professor-says-central-patrick) - LinkedIn, Patrick Leddin, Ph.D., PMP; Published on April 19, 2019
 
 ## Serverless Development
 * [Executive's guide to serverless architecture](https://www.zdnet.com/article/executives-guide-to-serverless-architecture/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958)
