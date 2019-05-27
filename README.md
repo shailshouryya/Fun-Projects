@@ -32,6 +32,8 @@ Happy coding!
 * [Siraj Raval's curriculum for learning data science in 3 months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months) - YouTube Video: [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA&feature=youtu.be)
 * [Object Detection Tutorial in TensorFlow: Real-Time Object Detection](https://www.edureka.co/blog/tensorflow-object-detection-tutorial/)
 * [Extreme Rare Event Classification using Autoencoders in Keras](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098) - In this post, we will learn how to implement an autoencoder for building a rare-event classifier. We will use a real-world rare event dataset from [here](https://arxiv.org/abs/1809.10717).
+* [Becoming a Level 3.0 Data Scientist: Want to be a Junior, Senior, or Principal Data Scientists? Find out what you need to do to navigate the Data Science Career Game.](https://towardsdatascience.com/becoming-a-level-3-0-data-scientist-52641ff73cb3) - Towards Data Science, Jan Zawadzki; May 14, 2019
+  * Overview of career trajectories within data science
 
 ### Programming:
 * [Python Programming Exercises by zhiwehu](https://github.com/zhiwehu/Python-programming-exercises)
