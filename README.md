@@ -141,6 +141,9 @@ Happy coding!
 * [Letter from Silicon Valley: Jack Dorsey’s TED Interview and the End of an Era](https://www.newyorker.com/news/letter-from-silicon-valley/jack-dorseys-ted-interview-and-the-end-of-an-era) - The New Yorker, By Anna Wiener; April 27, 2019
 * [Letter from Silicon Valley: In San Francisco, Tech Money Doesn’t Buy Happiness](https://www.newyorker.com/news/letter-from-silicon-valley/in-san-francisco-tech-money-doesnt-buy-happiness?utm_source=pocket-newtab) - The New Yorker, By Anna Wiener; May 17, 2019
 * [The One Word that Negates What Harvard Professor Says is Leadership's Central Issue](https://www.linkedin.com/pulse/one-word-negate-what-harvard-professor-says-central-patrick) - LinkedIn, Patrick Leddin, Ph.D., PMP; Published on April 19, 2019
+***
+* [ Inside Google's Civil War: Some employees say Google is losing touch with its “Don’t be evil” motto. What happens when an empowered tech workforce rebels?](http://fortune.com/longform/inside-googles-civil-war/) - Fortune, By Beth Kowitt; May 17, 2019
+***
 
 ## Serverless Development
 * [Executive's guide to serverless architecture](https://www.zdnet.com/article/executives-guide-to-serverless-architecture/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958)
