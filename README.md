@@ -185,6 +185,8 @@ Happy coding!
 * [Security flaws in 100+ Jenkins plugins put enterprise networks at risk](https://www.zdnet.com/article/security-flaws-in-100-jenkins-plugins-put-enterprise-networks-at-risk/) - By Catalin Cimpanu for Zero Day | May 3, 2019 -- 17:40 GMT (10:40 PDT) | Topic: Security
   * NCC Group researcher finds security flaws impacting more than 100 Jenkins plugins.
 * [How to avoid ruining lives (front-end security matters)](https://blog.usejournal.com/how-to-avoid-ruining-lives-front-end-security-matters-26d4f906c7a6) - Noteworthy - The Journal Blog (Medium), Luke Mayhew; April 30, 2019
+* [Google changes how the Escape key is handled in Chrome to fight popup ads](https://www.zdnet.com/article/google-changes-how-the-escape-key-is-handled-in-chrome-to-fight-popup-ads/) - ZDNet, By Catalin Cimpanu for Zero Day | May 20, 2019 -- 17:02 GMT (10:02 PDT) | Topic: Security -- Google Chrome v76 is getting a new security feature to fight popup spam.
+
 
 ## Privacy
 * [GDPR, USA? Microsoft says US should match the EU's digital privacy law](https://www.zdnet.com/article/gdpr-usa-microsoft-says-us-should-match-the-eus-digital-privacy-law/) - ZDNet, By Liam Tung | May 21, 2019 -- 12:12 GMT (05:12 PDT) | Topic: Innovation -- Microsoft ratchets up its lobbying for federal EU-style privacy laws for the US.
