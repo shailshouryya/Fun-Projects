@@ -168,6 +168,7 @@ Happy coding!
 * [Google updates GKE with release channels, Windows Server Containers](https://www.zdnet.com/article/google-updates-gke-with-release-channels-windows-server-containers/) - ZDNet, By Stephanie Condon for Between the Lines | May 21, 2019 -- 07:01 GMT (00:01 PDT) | Topic: Cloud -- The new release channels will let GKE customers automatically upgrade their Kubernetes clusters at a pace that meets their risk tolerance and business needs.
 * [Microsoft Azure: Everything you need to know about Redmond's cloud service](https://www.zdnet.com/article/microsoft-azure-everything-you-need-to-know/) - ZDNet, By Ed Bott | May 20, 2019 -- 19:14 GMT (12:14 PDT) | Topic: Cloud
   * Second only to AWS among cloud providers, Microsoft Azure is an ever-expanding set of cloud-based computing services available to businesses, developers, government agencies, and anyone who wants to build an app or run an enterprise without having to manage hardware.
+* [What makes Google Cloud Platform unique compared to Azure and Amazon](https://www.zdnet.com/article/what-makes-google-cloud-platform-unique-compared-to-azure-and-amazon/) - ZDNet, By Scott Fulton III | May 20, 2019 -- 16:31 GMT (09:31 PDT) | Topic: Executive Guides -- Since the 1980s, there’s been a rule that three major competitors don’t last long in a technology market. For Google to stay relevant and remain in contention, it has to keep innovating and changing the rules.
 
 
 
