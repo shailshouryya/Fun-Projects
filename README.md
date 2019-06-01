@@ -165,6 +165,7 @@ Happy coding!
   * The challenger in any competitive market has greater incentive to produce sharper and more customer-focused products and services. Google has to make a bigger splash, and for a company that isn’t known for being flashy, it’s not doing a bad job.
 * [Kubernetes: What the Hype is All About](https://hackernoon.com/kubernetes-what-the-hype-is-all-about-and-a-practical-tutorial-on-deploying-joget-for-low-code-47a8b02e47f5) - HackerNoon, By jogetworkflow; Jun 7, 2019
   * With a practical tutorial on deploying Joget for low-code Application Development
+* [Google updates GKE with release channels, Windows Server Containers](https://www.zdnet.com/article/google-updates-gke-with-release-channels-windows-server-containers/) - ZDNet, By Stephanie Condon for Between the Lines | May 21, 2019 -- 07:01 GMT (00:01 PDT) | Topic: Cloud -- The new release channels will let GKE customers automatically upgrade their Kubernetes clusters at a pace that meets their risk tolerance and business needs.
 
 
 ## Security
