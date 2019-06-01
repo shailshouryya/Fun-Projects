@@ -183,7 +183,12 @@ Happy coding!
 * [How to avoid ruining lives (front-end security matters)](https://blog.usejournal.com/how-to-avoid-ruining-lives-front-end-security-matters-26d4f906c7a6) - Noteworthy - The Journal Blog (Medium), Luke Mayhew; April 30, 2019
 
 ## Privacy
-* [GDPR, USA? Microsoft says US should match the EU's digital privacy law](https://www.zdnet.com/article/gdpr-usa-microsoft-says-us-should-match-the-eus-digital-privacy-law/) - ZDnet, By Liam Tung | May 21, 2019 -- 12:12 GMT (05:12 PDT) | Topic: Innovation -- Microsoft ratchets up its lobbying for federal EU-style privacy laws for the US.
+* [GDPR, USA? Microsoft says US should match the EU's digital privacy law](https://www.zdnet.com/article/gdpr-usa-microsoft-says-us-should-match-the-eus-digital-privacy-law/) - ZDNet, By Liam Tung | May 21, 2019 -- 12:12 GMT (05:12 PDT) | Topic: Innovation -- Microsoft ratchets up its lobbying for federal EU-style privacy laws for the US.
+* [Where GDPR goes next: How digital privacy is taking over the world](https://www.zdnet.com/article/where-gdpr-goes-next-how-digital-privacy-is-taking-over-the-world/) - ZDNet, By Danny Palmer | May 21, 2019 -- 10:00 GMT (03:00 PDT) | Topic: Security -- One year on from the EU introducing its data protection laws, the impact is spreading around the world.
+  * "AI allows the mass processing and analysis of data. In lots of areas, we're suddenly looking for general counsels to be looking at the ethics of something, not just the legalities of something. It's not how can you behave, it's how should you behave."
+  * This is especially the case when it comes to new technologies like AI and the Internet of Things, which rely on collecting vast piles of data and seeing how it can be used, rather than collecting data for a purpose.
+  * "We still haven't properly addressed how we're creating digital identities for children and how they move away from that. The consent issue and the profiles that are being built by schools, parents and all manner and how we keep a sense of privacy for kids," says Wright.
+
 
 
 ***
