@@ -166,6 +166,9 @@ Happy coding!
 * [Kubernetes: What the Hype is All About](https://hackernoon.com/kubernetes-what-the-hype-is-all-about-and-a-practical-tutorial-on-deploying-joget-for-low-code-47a8b02e47f5) - HackerNoon, By jogetworkflow; Jun 7, 2019
   * With a practical tutorial on deploying Joget for low-code Application Development
 * [Google updates GKE with release channels, Windows Server Containers](https://www.zdnet.com/article/google-updates-gke-with-release-channels-windows-server-containers/) - ZDNet, By Stephanie Condon for Between the Lines | May 21, 2019 -- 07:01 GMT (00:01 PDT) | Topic: Cloud -- The new release channels will let GKE customers automatically upgrade their Kubernetes clusters at a pace that meets their risk tolerance and business needs.
+* [Microsoft Azure: Everything you need to know about Redmond's cloud service](https://www.zdnet.com/article/microsoft-azure-everything-you-need-to-know/) - ZDNet, By Ed Bott | May 20, 2019 -- 19:14 GMT (12:14 PDT) | Topic: Cloud
+  * Second only to AWS among cloud providers, Microsoft Azure is an ever-expanding set of cloud-based computing services available to businesses, developers, government agencies, and anyone who wants to build an app or run an enterprise without having to manage hardware.
+
 
 
 ## Security
