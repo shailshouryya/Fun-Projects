@@ -9,8 +9,8 @@ This project was created following the directions from the YouTube video by free
   * `python -m venv env`
   * To check to see if the step completed successfully, run
   
-  `source env/bin/activate`
+  `source trydjango/bin/activate`
   
-  `source Scripts/bin/activate` (Windows)
+  `source trydjango/Scripts/activate` (Windows)
   * To exit environment, use `conda deactivate` or `deactivate`
 * Use [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/) for a reference on virtual environments.
