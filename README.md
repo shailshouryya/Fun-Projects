@@ -86,6 +86,7 @@ Happy coding!
   * Personal Take: The use case for quantum computing seems to be very different than the use case of our traditional computers, so this seems slightly misguided - as of now at least
 * [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) - JavaScript Scene (Medium), Eric Elliott; May 17, 2017
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) - JavaScript Scene (Medium), Eric Elliott; April 18, 2019
+* <strong>[ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)</strong>
 
 ### C++
 * [Some awesome modern C++ features that every developer should know](https://medium.freecodecamp.org/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c) …don’t miss out! M Chowdhury; May 8, 2019
@@ -94,7 +95,7 @@ Happy coding!
 ### Python
 * [How to Automatically Import Your Favorite Libraries into IPython or a Jupyter Notebook](https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343): No more typing “import pandas as pd” 10 times a day. Will Koehrsen; Feb 14, 2019
 * [An A-Z of useful Python tricks](https://medium.freecodecamp.org/an-a-z-of-useful-python-tricks-b467524ee747) - Peter Gleeson; August 28, 2018
-* [Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018](https://www.youtube.com/watch?v=WiQqqB9MlkA&utm_content=educational&utm_campaign=2019-06-03&utm_source=email-sendgrid&utm_term=766460&utm_medium=970600)
+* [Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018](https://www.youtube.com/watch?v=WiQqqB9MlkA)
 
 ### Front-End
 * [Zero Configuration Deployment with Surge, Now, and Glitch](https://alligator.io/workflow/single-line-deployment/)
