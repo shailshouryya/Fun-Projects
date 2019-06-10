@@ -88,6 +88,10 @@ Happy coding!
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) - JavaScript Scene (Medium), Eric Elliott; April 18, 2019
 * <strong>[ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)</strong>
 
+### Websites
+* [The 40 Point Checklist for Launching a Website (SMOOTHLY)](https://hackernoon.com/how-to-launch-your-website-smoothly-a-very-detailed-checklist-3a02dff1e1dc) - HackerNoon, By Maria Krause; Jun 9, 2019
+  * Project launch is always quite stressful experience as well as a website launching. Great amount of tasks each part of the development team should finish before going live. Such challenge often leads to small mistakes that in some cases have critical outcomes.
+
 ### C++
 * [Some awesome modern C++ features that every developer should know](https://medium.freecodecamp.org/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c) …don’t miss out! M Chowdhury; May 8, 2019
 * [How I discovered the C++ algorithm library and learned not to reinvent the wheel](https://medium.freecodecamp.org/how-i-discovered-the-c-algorithm-library-and-learned-not-to-reinvent-the-wheel-2398a34e23e3) - M Chowdhury; April 5, 2019
