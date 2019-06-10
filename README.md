@@ -102,6 +102,8 @@ Happy coding!
 * [How to Automatically Import Your Favorite Libraries into IPython or a Jupyter Notebook](https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343): No more typing “import pandas as pd” 10 times a day. Will Koehrsen; Feb 14, 2019
 * [An A-Z of useful Python tricks](https://medium.freecodecamp.org/an-a-z-of-useful-python-tricks-b467524ee747) - Peter Gleeson; August 28, 2018
 * [Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018](https://www.youtube.com/watch?v=WiQqqB9MlkA)
+* [Lambda, Map, and Filter in Python](https://medium.com/better-programming/lambda-map-and-filter-in-python-4935f248593) - BetterProgramming (Medium), Rupesh Mishra; May 5, 2017
+  * A look at the syntax and usage of each function
 
 ### Front-End
 * [Zero Configuration Deployment with Surge, Now, and Glitch](https://alligator.io/workflow/single-line-deployment/)
