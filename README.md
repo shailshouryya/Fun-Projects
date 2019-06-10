@@ -155,7 +155,8 @@ Happy coding!
 * [How to build a serverless architecture](https://www.zdnet.com/article/how-to-build-a-serverless-architecture/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958) - By Joe McKendrick | May 1, 2019 -- 14:53 GMT (07:53 PDT) | Topic: Prepare for Serverless Computing | A serverless architecture can mean lower costs and greater agility, but you’ll still need to make a business case and consider factors like security and storage before migrating selected workloads
 * [What Google Cloud Platform is and why you’d use it](https://www.zdnet.com/article/what-google-cloud-platform-is-and-why-youd-use-it/) - By Scott Fulton III | May 20, 2019 -- 15:31 GMT (08:31 PDT) | Topic: Executive Guides
   * The challenger in any competitive market has greater incentive to produce sharper and more customer-focused products and services. Google has to make a bigger splash, and for a company that isn’t known for being flashy, it’s not doing a bad job.
-
+* [Kubernetes: What the Hype is All About](https://hackernoon.com/kubernetes-what-the-hype-is-all-about-and-a-practical-tutorial-on-deploying-joget-for-low-code-47a8b02e47f5) - HackerNoon, By jogetworkflow; Jun 7, 2019
+  * With a practical tutorial on deploying Joget for low-code Application Development
 
 
 
