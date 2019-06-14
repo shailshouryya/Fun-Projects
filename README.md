@@ -73,7 +73,10 @@ Happy coding!
   "eo-learn makes extraction of valuable information from satellite imagery easy.
 
   The availability of open Earth observation (EO) data through the Copernicus and Landsat programs represents an unprecedented resource for many EO applications, ranging from ocean and land use and land cover monitoring, disaster control, emergency services and humanitarian relief. Given the large amount of high spatial resolution data at high revisit frequency, techniques able to automatically extract complex patterns in such spatio-temporal data are needed."
-  
+* [Hologram framework](https://github.com/etiennepinchon/hologram) - etiennepinchon/hologram
+* [The SENTINEL-1 Toolbox](https://github.com/senbox-org/s1tbx) - senbox-org/s1tbx
+* [brotli](https://github.com/google/brotli)
+  * Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding and 2nd order context modeling, with a compression ratio comparable to the best currently available general-purpose compression methods. It is similar in speed with deflate but offers more dense compression.  
 
 ## Development Practice:
 * [How I managed to control chaos with Laravel](https://medium.com/@josepostiga/how-i-managed-to-control-chaos-with-laravel-d47b9444a451)
