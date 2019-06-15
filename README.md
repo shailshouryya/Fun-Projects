@@ -203,7 +203,7 @@ Happy coding!
 
 ## Networking
 * [Your Router's Security Stinks: Here's How to Fix It](https://www.tomsguide.com/us/home-router-security,news-19245.html) - tom's guide, Paul Wagenseil (Senior editor, security and privacy); Updated Nov 11, 2018
-
+* [Modem vs. Router](https://www.diffen.com/difference/Modem_vs_Router) - Diffen, 
 
 ***
 ***
