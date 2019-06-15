@@ -192,7 +192,8 @@ Happy coding!
 * [Google research: Most hacker-for-hire services are frauds](https://www.zdnet.com/article/google-research-most-hacker-for-hire-services-are-frauds/) - ZDNet, By Catalin Cimpanu for Zero Day | May 20, 2019 -- 22:11 GMT (15:11 PDT) | Topic: Security -- Survey of 27 hacker-for-hire services found that only five launched attacks against victims.
 * [Root account misconfigurations found in 20% of top 1,000 Docker containers](https://www.zdnet.com/article/root-account-misconfigurations-found-in-20-of-top-1000-docker-containers/) - ZDNet, By Catalin Cimpanu for Zero Day | May 21, 2019 -- 04:15 GMT (21:15 PDT) | Topic: Security -- Issue similar to Alpine Linux's CVE-2019-5021 impacts 194 other Docker images.
 * [Why post-quantum encryption will be critical to protect current classical computers](https://www.techrepublic.com/article/why-post-quantum-encryption-will-be-critical-to-protect-current-classical-computers/) - TechRepublic, By James Sanders in Security on May 21, 2019, 5:50 AM PST
-  * Quantum computers are theorized to be capable of breaking RSA encryption. Experts disagree on when it could happen, but agree on a need for quantum-proof encryption. 
+  * Quantum computers are theorized to be capable of breaking RSA encryption. Experts disagree on when it could happen, but agree on a need for quantum-proof encryption.
+* [Essential Tips to Avoid Getting Hacked](https://www.tomsguide.com/us/pictures-story/982-avoid-being-hacked.html) - tom's guide, by Paul Wagenseil; Sep 15, 2017, 9:40 AM
 
 ## Privacy
 * [GDPR, USA? Microsoft says US should match the EU's digital privacy law](https://www.zdnet.com/article/gdpr-usa-microsoft-says-us-should-match-the-eus-digital-privacy-law/) - ZDNet, By Liam Tung | May 21, 2019 -- 12:12 GMT (05:12 PDT) | Topic: Innovation -- Microsoft ratchets up its lobbying for federal EU-style privacy laws for the US.
