@@ -201,6 +201,8 @@ Happy coding!
   * This is especially the case when it comes to new technologies like AI and the Internet of Things, which rely on collecting vast piles of data and seeing how it can be used, rather than collecting data for a purpose.
   * "We still haven't properly addressed how we're creating digital identities for children and how they move away from that. The consent issue and the profiles that are being built by schools, parents and all manner and how we keep a sense of privacy for kids," says Wright.
 
+## Networking
+* [Your Router's Security Stinks: Here's How to Fix It](https://www.tomsguide.com/us/home-router-security,news-19245.html) - tom's guide, Paul Wagenseil (Senior editor, security and privacy); Updated Nov 11, 2018
 
 
 ***
