@@ -215,6 +215,8 @@ Happy coding!
 * [How to Build and Maintain the Best Home Network](https://www.lifewire.com/how-to-build-and-maintain-the-best-home-network-4097862) - Lifewire, by Bradley Mitchell; Updated May 31, 2019
 * [Top 10 Tips for Wireless Home Network Security](https://www.lifewire.com/wireless-home-network-security-tips-818355) - Lifewire, by Bradley Mitchell; Updated November 05, 2018
 * [ SSID and Wireless Networking](https://www.lifewire.com/definition-of-service-set-identifier-816547) - Lifewire, by Bradley Mitchell; Updated April 20, 2019 -- All wireless networks have their own network name 
+* [Rainbow Tables: Your Password's Worst Nightmare](https://www.lifewire.com/rainbow-tables-your-passwords-worst-nightmare-2487288) - Lifewire, by Andy O'Donnell; Updated May 17, 2019
+
 
 ***
 ***
