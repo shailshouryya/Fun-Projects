@@ -223,6 +223,7 @@ Happy coding!
 * [5G Wireless Technology](https://www.lifewire.com/5g-wireless-4155905) - Lifewire, by Tim Fisher; Updated June 14, 2019
 * [What is ADSL (Asymmetric Digital Subscriber Line)?](https://www.lifewire.com/what-is-adsl-4589722) This internet connection type leverages existing phone lines - Lifewire, By Jon Martindale; Updated May 07, 2019
 * [DSL: Digital Subscriber Line](https://www.lifewire.com/digital-subscriber-line-817527) - Lifewire, By Bradley Mitchell; Updated February 15, 2019
+* [DSL vs. Cable: Broadband Internet Speed Comparison](https://www.lifewire.com/dsl-vs-cable-broadband-internet-speed-comparison-817539) - Lifewire, By Bradley Mitchell; Updated June 13, 2019
 * [What Really Happened to Dial-Up Networking](https://www.lifewire.com/definition-of-dial-up-817779) - Lifewire, By Bradley Mitchell; Updated June 02, 2019
 * [How Packet Switching Works on Computer Networks](https://www.lifewire.com/packet-switching-on-computer-networks-817938) - Lifewire, By Bradley Mitchell; Updated May 20, 2019
 
