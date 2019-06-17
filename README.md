@@ -211,6 +211,8 @@ Happy coding!
 * [Cisco Systems Networking Tutorials and Resources: Cisco offers certifications in several networking technology areas](https://www.lifewire.com/cisco-systems-corporation-817476) - Lifewire, by Bradley Mitchell; Updated December 06, 2018
 * [MAC Addresses With Formatting Examples](https://www.lifewire.com/introduction-to-mac-addresses-817937) - Lifewire, by Bradley Mitchell; Updated May 30, 2019
 * [What Is Tethering a Cellphone?](https://www.lifewire.com/what-is-tethering-2377921) - Lifewire, by Melanie Pinola; Updated May 16, 2019
+* [Major Events in The History of Computer Networks](https://www.lifewire.com/major-events-computer-networks-817417) - Lifewire, by Bradley Mitchell; Updated April 02, 2019
+
 
 
 ***
