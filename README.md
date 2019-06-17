@@ -219,6 +219,7 @@ Happy coding!
 * [Rainbow Tables: Your Password's Worst Nightmare](https://www.lifewire.com/rainbow-tables-your-passwords-worst-nightmare-2487288) - Lifewire, by Andy O'Donnell; Updated May 17, 2019
 * [Guide to Laptop Networking Features](https://www.lifewire.com/guide-to-laptop-networking-features-832311) - Lifewire, by Mark Kyrnin; Updated November 12, 2018
 * [5G Wireless Technology](https://www.lifewire.com/5g-wireless-4155905) - Lifewire, by Tim Fisher; Updated June 14, 2019
+* [What is ADSL (Asymmetric Digital Subscriber Line)?](https://www.lifewire.com/what-is-adsl-4589722) This internet connection type leverages existing phone lines - Lifewire, By Jon Martindale; Updated May 07, 2019
 
 ***
 ***
