@@ -206,6 +206,7 @@ Happy coding!
   * "We still haven't properly addressed how we're creating digital identities for children and how they move away from that. The consent issue and the profiles that are being built by schools, parents and all manner and how we keep a sense of privacy for kids," says Wright.
 
 ## Networking
+* [Visual Index of Computer Networking Topics](https://www.lifewire.com/visual-index-of-computer-networking-topics-4064051) - Lifewire, By Bradley Mitchell; Updated September 09, 2018
 * [Your Router's Security Stinks: Here's How to Fix It](https://www.tomsguide.com/us/home-router-security,news-19245.html) - tom's guide, Paul Wagenseil (Senior editor, security and privacy); Updated Nov 11, 2018
 * [Modem vs. Router](https://www.diffen.com/difference/Modem_vs_Router) - Diffen
 * [ What Is a Modem in Computer Networking?](https://www.lifewire.com/what-is-a-modem-817861): Dial-up modems gave way to high-speed broadband modems - LifeWire, by Bradley Mitchell; Updated April 11, 2019
