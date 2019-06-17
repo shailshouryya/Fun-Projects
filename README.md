@@ -242,6 +242,7 @@ Happy coding!
 * [OSI Model Reference Guide](https://www.lifewire.com/osi-model-reference-guide-816289) - Lifewire, By Bradley Mitchell; Updated May 17, 2019
 * [Common Questions and Answers on the OSI Network Model](https://www.lifewire.com/the-osi-network-model-818016) - Lifewire, By Bradley Mitchell; Updated October 29, 2018
 * [What Are Network Protocols?](https://www.lifewire.com/definition-of-protocol-network-817949) - Lifewire, Br Bradley Mitchell; Updated December 30, 2018
+* [An Overview of Socket Programming for Computer Networking](https://www.lifewire.com/socket-programming-for-computer-networking-4056385) - Lifewire, By Bradley Mitchell; Updated June 17, 2019
 * [Use a Bridge to Expand Your Local Network](https://www.lifewire.com/how-network-bridges-work-816357) - Lifewire, By Bradley Mitchell; Updated May 26, 2019
 
 ***
