@@ -318,3 +318,7 @@ From javatpoint:
 * [109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science-interview-questions/) - Springboard
 * [Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473) - RPubs
 * [SQL interview questions](https://www.javatpoint.com/sql-interview-questions)
+
+## Math and Logic
+* [Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
+* [Triple bar](https://en.wikipedia.org/wiki/Triple_bar)
