@@ -92,6 +92,8 @@ Happy coding!
 * [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) - JavaScript Scene (Medium), Eric Elliott; May 17, 2017
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) - JavaScript Scene (Medium), Eric Elliott; April 18, 2019
 * <strong>[ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)</strong>
+***
+* [The Coming Software Apocalypse](https://getpocket.com/explore/item/the-coming-software-apocalypse) - The Atlantic, By James Somers; September 26, 2017
 
 ### Websites
 * [The 40 Point Checklist for Launching a Website (SMOOTHLY)](https://hackernoon.com/how-to-launch-your-website-smoothly-a-very-detailed-checklist-3a02dff1e1dc) - HackerNoon, By Maria Krause; Jun 9, 2019
