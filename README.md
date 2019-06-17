@@ -322,3 +322,4 @@ From javatpoint:
 ## Math and Logic
 * [Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
 * [Triple bar](https://en.wikipedia.org/wiki/Triple_bar)
+* [Modular exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
