@@ -214,7 +214,7 @@ Happy coding!
 * [Major Events in The History of Computer Networks](https://www.lifewire.com/major-events-computer-networks-817417) - Lifewire, by Bradley Mitchell; Updated April 02, 2019
 * [How to Build and Maintain the Best Home Network](https://www.lifewire.com/how-to-build-and-maintain-the-best-home-network-4097862) - Lifewire, by Bradley Mitchell; Updated May 31, 2019
 * [Top 10 Tips for Wireless Home Network Security](https://www.lifewire.com/wireless-home-network-security-tips-818355) - Lifewire, by Bradley Mitchell; Updated November 05, 2018
-
+* [ SSID and Wireless Networking](https://www.lifewire.com/definition-of-service-set-identifier-816547) - Lifewire, by Bradley Mitchell; Updated April 20, 2019 -- All wireless networks have their own network name 
 
 ***
 ***
