@@ -226,6 +226,7 @@ Happy coding!
 * [DSL vs. Cable: Broadband Internet Speed Comparison](https://www.lifewire.com/dsl-vs-cable-broadband-internet-speed-comparison-817539) - Lifewire, By Bradley Mitchell; Updated June 13, 2019
 * [What Really Happened to Dial-Up Networking](https://www.lifewire.com/definition-of-dial-up-817779) - Lifewire, By Bradley Mitchell; Updated June 02, 2019
 * [How Packet Switching Works on Computer Networks](https://www.lifewire.com/packet-switching-on-computer-networks-817938) - Lifewire, By Bradley Mitchell; Updated May 20, 2019
+* [Disable SSID Broadcast to Hide Your Wi-Fi Network](https://www.lifewire.com/disabling-ssid-broadcast-on-wireless-routers-816569) - Lifewire, By Bradley Mitchell; Updated June 04, 2019
 
 ***
 ***
