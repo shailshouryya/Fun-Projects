@@ -107,6 +107,7 @@ Happy coding!
 * [Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018](https://www.youtube.com/watch?v=WiQqqB9MlkA)
 * [Lambda, Map, and Filter in Python](https://medium.com/better-programming/lambda-map-and-filter-in-python-4935f248593) - BetterProgramming (Medium), Rupesh Mishra; May 5, 2017
   * A look at the syntax and usage of each function
+* [How do I determine the size of an object in Python?](https://stackoverflow.com/questions/449560/how-do-i-determine-the-size-of-an-object-in-python) - StackOverflow
 
 ### Front-End
 * [Zero Configuration Deployment with Surge, Now, and Glitch](https://alligator.io/workflow/single-line-deployment/)
