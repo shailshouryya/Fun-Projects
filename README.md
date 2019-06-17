@@ -224,6 +224,7 @@ Happy coding!
 * [What is ADSL (Asymmetric Digital Subscriber Line)?](https://www.lifewire.com/what-is-adsl-4589722) This internet connection type leverages existing phone lines - Lifewire, By Jon Martindale; Updated May 07, 2019
 * [DSL: Digital Subscriber Line](https://www.lifewire.com/digital-subscriber-line-817527) - Lifewire, By Bradley Mitchell; Updated February 15, 2019
 * [What Really Happened to Dial-Up Networking](https://www.lifewire.com/definition-of-dial-up-817779) - Lifewire, By Bradley Mitchell; Updated June 02, 2019
+* [How Packet Switching Works on Computer Networks](https://www.lifewire.com/packet-switching-on-computer-networks-817938) - Lifewire, By Bradley Mitchell; Updated May 20, 2019
 
 ***
 ***
