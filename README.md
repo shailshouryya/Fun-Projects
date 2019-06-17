@@ -218,6 +218,7 @@ Happy coding!
 * [MAC Addresses With Formatting Examples](https://www.lifewire.com/introduction-to-mac-addresses-817937) - Lifewire, by Bradley Mitchell; Updated May 30, 2019
 * [MAC Address Filtering: What It Is and How It Works](https://www.lifewire.com/enabling-mac-address-filtering-wireless-router-816571) - Lifewire, By Bradley Mitchell; Updated June 01, 2019
 * [Wireless Adapter Cards and Wireless Network Adapters](https://www.lifewire.com/wireless-adapter-cards-and-adapters-817594) - Lifewire, By Bradley Mitchell; Updated May 06, 2019
+* [What is Wireless Access Point?](https://www.lifewire.com/definitions-of-wap-816548) - Lifewire, By Bradley Mitchell; Updated May 28, 2018
 * [What Is a Network Sniffer?](https://www.lifewire.com/definition-of-sniffer-817996) - Lifewire, By Bradley Mitchell; Updated May 30, 2019
 * [What Is Tethering a Cellphone?](https://www.lifewire.com/what-is-tethering-2377921) - Lifewire, by Melanie Pinola; Updated May 16, 2019
 * [Major Events in The History of Computer Networks](https://www.lifewire.com/major-events-computer-networks-817417) - Lifewire, by Bradley Mitchell; Updated April 02, 2019
