@@ -236,6 +236,7 @@ Happy coding!
 * [What Is NetBIOS?](https://www.lifewire.com/netbios-software-protocol-818229) - Lifewire, By Bradley Mitchell; Updated May 14, 2019
 * [How Do Computer Network Protocols Work?](https://www.lifewire.com/computer-networks-protocols-817374) - Lifewire, By Bradley Mitchell; Updated June 11, 2018
 * [The Layers of the OSI Model Illustrated](https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017) - Lifewire; By Bradley Mitchell; Updated May 27, 2019
+* [Common Questions and Answers on the OSI Network Model](https://www.lifewire.com/the-osi-network-model-818016) - Lifewire, By Bradley Mitchell; Updated October 29, 2018
 * [What Are Network Protocols?](https://www.lifewire.com/definition-of-protocol-network-817949) - Lifewire, Br Bradley Mitchell; Updated December 30, 2018
 * [Use a Bridge to Expand Your Local Network](https://www.lifewire.com/how-network-bridges-work-816357) - Lifewire, By Bradley Mitchell; Updated May 26, 2019
 
