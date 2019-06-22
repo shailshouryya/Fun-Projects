@@ -259,7 +259,8 @@ Happy coding!
 * [Deconstructing Serverless Computing Part 1: A new layer of abstraction](https://hackernoon.com/deconstructing-serverless-computing-part-1-a-new-layer-of-abstraction-98c15334e4f7)
 * [bigml](https://bigml.com/ml101/)
 * [This is what's on Bill Gates' 2019 summer reading list: War, blood and the future of capitalism](https://www.zdnet.com/article/this-is-whats-on-bill-gates-2019-summer-reading-list-war-blood-and-the-future-of-capitalism/) - ZDNet, By Liam Tung | May 21, 2019 -- 10:50 GMT (03:50 PDT) | Topic: Microsoft -- Bill Gates' 2109 [sic] summer reading list is shaped by his attraction to books about upheaval.
-
+* [10 Great Programming Projects to Improve Your Resume and Learn to Program: Improve your skills in web development, programming, UI, automation and more](https://medium.com/better-programming/10-great-programming-projects-to-improve-your-resume-and-learn-to-program-74b14d3e9e16) - BetterProgramming (Medium), by  SeattleDataGuy; June 12, 2019
+Jun 12
 
 ## Computer Science Fundamentals
 * memory
