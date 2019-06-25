@@ -110,7 +110,7 @@ Happy coding!
     * . – any character if with the regexp 's' flag, otherwise any except a newline.
   * [Escaping, special characters](https://javascript.info/regexp-escaping) - remember to use double backslashes to escape special characters when using the "new RegExp()" constructor
   * [Sets and ranges [...]](https://javascript.info/regexp-character-sets-and-ranges) - no need to escape special characters in character sets (still need to use backslash for character classes though), able to use ranges (e.g. [A-Za-z]), and negate characters (e.g. *don't look for* these characters) by including a "^" at the beginning: [^0-9] looks for everything but numberic characters
-  * [Quantifiers +, *, ? and {n}](https://javascript.info/regexp-quantifiers) - quantifiers allow you to search for multiple consecutive appearance of selected character (the character that directly precedes the quantifier)
+  * [Quantifiers +, *, ? and {n}](https://javascript.info/regexp-quantifiers) - quantifiers allow you to search for multiple consecutive appearance of selected character (the character that directly precedes the quantifier); quantity n enclosed in braces {n}, * indicates 0 or more, + indicates 1 or more, ? indicates 0 or 1 appearances
 
 
 ### Websites
