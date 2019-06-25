@@ -111,6 +111,13 @@ Happy coding!
   * [Escaping, special characters](https://javascript.info/regexp-escaping) - remember to use double backslashes to escape special characters when using the "new RegExp()" constructor
   * [Sets and ranges [...]](https://javascript.info/regexp-character-sets-and-ranges) - no need to escape special characters in character sets (still need to use backslash for character classes though), able to use ranges (e.g. [A-Za-z]), and negate characters (e.g. *don't look for* these characters) by including a "^" at the beginning: [^0-9] looks for everything but numberic characters
   * [Quantifiers +, *, ? and {n}](https://javascript.info/regexp-quantifiers) - quantifiers allow you to search for multiple consecutive appearance of selected character (the character that directly precedes the quantifier); quantity n enclosed in braces {n}, * indicates 0 or more, + indicates 1 or more, ? indicates 0 or 1 appearances
+  * [Greedy and lazy quantifiers](https://javascript.info/regexp-greedy-and-lazy) - greedy quantifiers (*, +, ?) will search until the character they are searching for no longer appears- which in many cases isn't until the end of line or such - then backtrack to find the next character in the regex; lazy searches (*?, +?, ??) look for the designated character then try to match the next character in the regex, and extend the match until the next character in the regex matches what appears in the string
+  * [Capturing groups](https://javascript.info/regexp-groups) - also include nested groups - which go by the order of the opening parenthesis, named groups - which go by ?<name> directly following opening parenthesis and referenced by name (no <>), and non-capturing groups - which are indicated by ?: immediately following the opening parenthesis
+  * [Backreferences in pattern: \n and \k](https://javascript.info/regexp-backreferences) - 
+    * To reference a group inside a replacement string – we use $1, while in the pattern – a backslash \1.
+    * If we use ?: in the group, then we can’t reference it. Groups that are excluded from capturing (?:...) are not remembered by the engine.
+    * For named groups, we can backreference by \k<name>.
+
 
 
 ### Websites
