@@ -99,6 +99,7 @@ Happy coding!
 
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
+  * [Methods of RegExp and String](https://javascript.info/regexp-methods) - string.method(argument(s)) versus regexp.method(argument(s))
 
 ### Websites
 * [The 40 Point Checklist for Launching a Website (SMOOTHLY)](https://hackernoon.com/how-to-launch-your-website-smoothly-a-very-detailed-checklist-3a02dff1e1dc) - HackerNoon, By Maria Krause; Jun 9, 2019
