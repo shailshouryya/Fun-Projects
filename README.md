@@ -101,14 +101,14 @@ Happy coding!
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
   * [Methods of RegExp and String](https://javascript.info/regexp-methods) - string.method(argument(s)) versus regexp.method(argument(s))
   * [Character classes](https://javascript.info/regexp-character-classes) - aka character sets and metacharacters:
-    
-    \d – digits.
-    \D – non-digits.
-    \s – space symbols, tabs, newlines.
-    \S – all but \s.
-    \w – English letters, digits, underscore '_'.
-    \W – all but \w.
-    . – any character if with the regexp 's' flag, otherwise any except a newline.
+    * \d – digits.
+    * \D – non-digits.
+    * \s – space symbols, tabs, newlines.
+    * \S – all but \s.
+    * \w – English letters, digits, underscore '_'.
+    * \W – all but \w.
+    * . – any character if with the regexp 's' flag, otherwise any except a newline.
+  * [Escaping, special characters](https://javascript.info/regexp-escaping) - remember to use double backslashes to escape special characters when using the "new RegExp()" constructor
 
 
 ### Websites
