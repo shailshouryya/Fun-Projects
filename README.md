@@ -110,7 +110,7 @@ Happy coding!
   * [Lesson 11: Match groups](https://regexone.com/lesson/capturing_groups) - "Any subpattern inside a pair of parentheses will be captured as a group"
   * [Lesson 12: Nested groups](https://regexone.com/lesson/nested_groups) - the results of the captured groups are in the order in which they are defined (in order by open parenthesis)
   * [Lesson 13: More group work](https://regexone.com/lesson/more_groups)
-  * 
+  * [Lesson 14: It's all conditional](https://regexone.com/lesson/conditionals) - use the | aka pipe/logical character to indicate different possible sets of characters; alternation
   
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
