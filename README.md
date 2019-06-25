@@ -99,6 +99,7 @@ Happy coding!
 * [ RegexOne: Learn Regular Expressions with simple, interactive exercises.](https://regexone.com/) - Lesson 1: An Introduction, and the ABCs
   * [Lesson 1½: The 123s](https://regexone.com/lesson/letters_and_digits) - more literal matching
   * [Lesson 2: The Dot](https://regexone.com/lesson/wildcards_dot) - the dot matches any single character including letters, digits, and whitespace
+  * [Lesson 3: Matching specific characters](https://regexone.com/lesson/matching_characters) - match specific characters using square brackets, aka character sets
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
   * [Methods of RegExp and String](https://javascript.info/regexp-methods) - string.method(argument(s)) versus regexp.method(argument(s))
