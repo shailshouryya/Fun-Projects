@@ -118,7 +118,7 @@ Happy coding!
     * If we use ?: in the group, then we can’t reference it. Groups that are excluded from capturing (?:...) are not remembered by the engine.
     * For named groups, we can backreference by \k<name>.
   * [Alternation (OR) |](https://javascript.info/regexp-alternation)
-
+  * [String start ^ and finish $](https://javascript.info/regexp-anchors) - aka anchors
 
 
 ### Websites
