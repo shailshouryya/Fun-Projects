@@ -100,6 +100,8 @@ Happy coding!
   * [Lesson 1½: The 123s](https://regexone.com/lesson/letters_and_digits) - more literal matching
   * [Lesson 2: The Dot](https://regexone.com/lesson/wildcards_dot) - the dot matches any single character including letters, digits, and whitespace
   * [Lesson 3: Matching specific characters](https://regexone.com/lesson/matching_characters) - match specific characters using square brackets, aka character sets
+  * [Lesson 4: Excluding specific characters](https://regexone.com/lesson/excluding_characters) - exclude characters by using a caret "^" as the first character inside a character set followed by the characters you don't want to match
+  * 
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
   * [Methods of RegExp and String](https://javascript.info/regexp-methods) - string.method(argument(s)) versus regexp.method(argument(s))
