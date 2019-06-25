@@ -103,7 +103,8 @@ Happy coding!
   * [Lesson 4: Excluding specific characters](https://regexone.com/lesson/excluding_characters) - exclude characters by using a caret "^" as the first character inside a character set followed by the characters you don't want to match
   * [Lesson 5: Character ranges](https://regexone.com/lesson/character_ranges) - use character ranges by using a dash character between the range of characters you wish to match (or exclude if you use negation with excluding character sets)
   * [Lesson 6: Catching some zzz's](https://regexone.com/lesson/repeating_characters) - use curly braces to capture a specific occurrence of character(s), and use a range e.g. {2,6} to capture at least the lower limit and at most the upper limit of character appearances
-  
+  * [Lesson 7: Mr. Kleene, Mr. Kleene](https://regexone.com/lesson/kleene_operators) - Kleene star matches 0 or more occurrence of a character, while a Kleene plus matches 1 or more occurrences of a character
+  * 
   
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
