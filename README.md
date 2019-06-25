@@ -95,6 +95,11 @@ Happy coding!
 ***
 * [The Coming Software Apocalypse](https://getpocket.com/explore/item/the-coming-software-apocalypse) - The Atlantic, By James Somers; September 26, 2017
 
+### Regular Expressions
+
+#### RegEx in JavaScript
+* [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
+
 ### Websites
 * [The 40 Point Checklist for Launching a Website (SMOOTHLY)](https://hackernoon.com/how-to-launch-your-website-smoothly-a-very-detailed-checklist-3a02dff1e1dc) - HackerNoon, By Maria Krause; Jun 9, 2019
   * Project launch is always quite stressful experience as well as a website launching. Great amount of tasks each part of the development team should finish before going live. Such challenge often leads to small mistakes that in some cases have critical outcomes.
