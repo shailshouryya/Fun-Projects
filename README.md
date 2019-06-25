@@ -126,7 +126,10 @@ Happy coding!
     * x(?!y) 	Negative lookahead 	x if not followed by y
     * (?<=y)x 	Positive lookbehind 	x if after y
     * (?<!y)x 	Negative lookbehind 	x if not after y
-  *
+  * [Infinite backtracking problem](https://javascript.info/regexp-infinite-backtracking-problem)
+  * [Unicode: flag "u"](https://javascript.info/regexp-unicode)
+  * [Unicode character properties \p](https://javascript.info/regexp-unicode-properties)
+  * [Sticky flag "y", searching at position](https://javascript.info/regexp-sticky)
 
 
 
