@@ -101,7 +101,9 @@ Happy coding!
   * [Lesson 2: The Dot](https://regexone.com/lesson/wildcards_dot) - the dot matches any single character including letters, digits, and whitespace
   * [Lesson 3: Matching specific characters](https://regexone.com/lesson/matching_characters) - match specific characters using square brackets, aka character sets
   * [Lesson 4: Excluding specific characters](https://regexone.com/lesson/excluding_characters) - exclude characters by using a caret "^" as the first character inside a character set followed by the characters you don't want to match
+  * [Lesson 5: Character ranges](https://regexone.com/lesson/character_ranges) - use character ranges by using a dash character between the range of characters you wish to match (or exclude if you use negation with excluding character sets)
   * 
+  
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
   * [Methods of RegExp and String](https://javascript.info/regexp-methods) - string.method(argument(s)) versus regexp.method(argument(s))
