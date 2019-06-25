@@ -100,6 +100,16 @@ Happy coding!
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
   * [Methods of RegExp and String](https://javascript.info/regexp-methods) - string.method(argument(s)) versus regexp.method(argument(s))
+  * [Character classes](https://javascript.info/regexp-character-classes) - aka character sets and metacharacters:
+    
+    \d – digits.
+    \D – non-digits.
+    \s – space symbols, tabs, newlines.
+    \S – all but \s.
+    \w – English letters, digits, underscore '_'.
+    \W – all but \w.
+    . – any character if with the regexp 's' flag, otherwise any except a newline.
+
 
 ### Websites
 * [The 40 Point Checklist for Launching a Website (SMOOTHLY)](https://hackernoon.com/how-to-launch-your-website-smoothly-a-very-detailed-checklist-3a02dff1e1dc) - HackerNoon, By Maria Krause; Jun 9, 2019
