@@ -108,6 +108,8 @@ Happy coding!
   * [Lesson 9: All this whitespace](https://regexone.com/lesson/whitespaces) - "The most common forms of whitespace you will use with regular expressions are the space (␣), the tab (\t), the new line (\n) and the carriage return (\r) (useful in Windows environments), and these special characters match each of their respective whitespaces. In addition, a whitespace special character \s will match any of the specific whitespaces above and is extremely useful when dealing with raw input text."
   * [Lesson 10: Starting and ending](https://regexone.com/lesson/line_beginning_end) - hat/caret and dollar metacharacters check the beginning and end of line
   * [Lesson 11: Match groups](https://regexone.com/lesson/capturing_groups) - "Any subpattern inside a pair of parentheses will be captured as a group"
+  * [Lesson 12: Nested groups](https://regexone.com/lesson/nested_groups) - the results of the captured groups are in the order in which they are defined (in order by open parenthesis)
+  * 
   
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
