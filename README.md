@@ -121,6 +121,12 @@ Happy coding!
   * [String start ^ and finish $](https://javascript.info/regexp-anchors) - aka anchors
   * [Multiline mode, flag "m"](https://javascript.info/regexp-multiline-mode) - use the multiline flag "m" for the anchors ^ and & to match characters at the beginning and end of each line as opposed to just matching at the beginning and end of the string; using \n matches newline characters but consumes the newline character and adds it to the result, meaning the result would be something like: whatYouSearchedFor\n instead of whatYouSearchedFor
   * [Lookahead and lookbehind](https://javascript.info/regexp-lookahead-lookbehind) - lookaheads and lookbehinds are not part of the resulting match unless wrapped internally in an additional set of parentheses: let reg = /\d+(?=(€|kr))/; // extra parentheses around €|kr
+    * Pattern 	type 	matches
+    * x(?=y) 	Positive lookahead 	x if followed by y
+    * x(?!y) 	Negative lookahead 	x if not followed by y
+    * (?<=y)x 	Positive lookbehind 	x if after y
+    * (?<!y)x 	Negative lookbehind 	x if not after y
+  *
 
 
 
