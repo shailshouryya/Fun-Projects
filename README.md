@@ -100,7 +100,7 @@ Happy coding!
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
   * [Methods of RegExp and String](https://javascript.info/regexp-methods) - string.method(argument(s)) versus regexp.method(argument(s))
-  * [Character classes](https://javascript.info/regexp-character-classes) - aka character sets and metacharacters:
+  * [Character classes](https://javascript.info/regexp-character-classes) - aka metacharacters:
     * \d – digits.
     * \D – non-digits.
     * \s – space symbols, tabs, newlines.
