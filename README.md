@@ -96,7 +96,8 @@ Happy coding!
 * [The Coming Software Apocalypse](https://getpocket.com/explore/item/the-coming-software-apocalypse) - The Atlantic, By James Somers; September 26, 2017
 
 ### Regular Expressions
-
+* [ RegexOne: Learn Regular Expressions with simple, interactive exercises.](https://regexone.com/) - Lesson 1: An Introduction, and the ABCs
+  * 
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
   * [Methods of RegExp and String](https://javascript.info/regexp-methods) - string.method(argument(s)) versus regexp.method(argument(s))
