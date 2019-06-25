@@ -119,6 +119,7 @@ Happy coding!
     * For named groups, we can backreference by \k<name>.
   * [Alternation (OR) |](https://javascript.info/regexp-alternation)
   * [String start ^ and finish $](https://javascript.info/regexp-anchors) - aka anchors
+  * [Multiline mode, flag "m"](https://javascript.info/regexp-multiline-mode) - use the multiline flag "m" for the anchors ^ and & to match characters at the beginning and end of each line as opposed to just matching at the beginning and end of the string; using \n matches newline characters but consumes the newline character and adds it to the result, meaning the result would be something like: whatYouSearchedFor\n instead of whatYouSearchedFor
 
 
 ### Websites
