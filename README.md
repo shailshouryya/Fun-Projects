@@ -117,6 +117,7 @@ Happy coding!
     * To reference a group inside a replacement string – we use $1, while in the pattern – a backslash \1.
     * If we use ?: in the group, then we can’t reference it. Groups that are excluded from capturing (?:...) are not remembered by the engine.
     * For named groups, we can backreference by \k<name>.
+  * [Alternation (OR) |](https://javascript.info/regexp-alternation)
 
 
 
