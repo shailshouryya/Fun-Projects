@@ -115,6 +115,7 @@ Happy coding!
   * covers basics (literal matching with word characters and numbers, anchors, character sets, character classes, and character ranges), reverse pairs using backreferences (let e=/(\w)(\w)\2\1/;), no consecutive duplicate characters (let e=/^(?:(\w)(?!\1))+$/;), alternating patterns (let e=/^(\S)(?!\1)(\S)(\1\2)*\1?$/; e.test("xyxyx"); //true e.test("$#$#$"); //true), and checking for email addresses and valid passwords
 * [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285) - Factory Mind (Medium), by Jonny Fox; June 22, 2017
   * covers anchors, quantifiers, OR operator, character classes, flags, grouping and capturing with (), bracket expressions, greedy and lazy matching, boundaries with \b and \B, backreferences, and lookahead and lookbehind
+* [Regular expression for checking if capital letters are found consecutively in a string?](https://stackoverflow.com/questions/4050381/regular-expression-for-checking-if-capital-letters-are-found-consecutively-in-a) - StackOverflow
   
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
@@ -149,7 +150,8 @@ Happy coding!
   * [Unicode: flag "u"](https://javascript.info/regexp-unicode)
   * [Unicode character properties \p](https://javascript.info/regexp-unicode-properties)
   * [Sticky flag "y", searching at position](https://javascript.info/regexp-sticky)
-
+* [A Practical Guide to Regular Expressions (RegEx) In JavaScript
+A quick guide to effectively leveraging with regular expressions, with hands-on examples.](https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4) - Bits and Pieces (Medium), by Sukhjinder Arora; August 6, 2018 - overview of basics with regular expressions in JavaScript 
 
 
 ### Websites
