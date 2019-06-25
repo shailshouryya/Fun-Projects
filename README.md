@@ -94,6 +94,8 @@ Happy coding!
 * <strong>[ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)</strong>
 ***
 * [The Coming Software Apocalypse](https://getpocket.com/explore/item/the-coming-software-apocalypse) - The Atlantic, By James Somers; September 26, 2017
+***
+* [International Date Format (ISO 8601) and Time Measurements](http://www.humantruth.info/dates.html) - The Human Truth Foundation, By Vexen Crabtree; 2005 
 
 ### Regular Expressions
 * [ RegexOne: Learn Regular Expressions with simple, interactive exercises.](https://regexone.com/) - Lesson 1: An Introduction, and the ABCs
