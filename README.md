@@ -105,6 +105,8 @@ Happy coding!
   * [Lesson 6: Catching some zzz's](https://regexone.com/lesson/repeating_characters) - use curly braces to capture a specific occurrence of character(s), and use a range e.g. {2,6} to capture at least the lower limit and at most the upper limit of character appearances
   * [Lesson 7: Mr. Kleene, Mr. Kleene](https://regexone.com/lesson/kleene_operators) - Kleene star matches 0 or more occurrence of a character, while a Kleene plus matches 1 or more occurrences of a character
   * [Lesson 8: Characters optional](https://regexone.com/lesson/optional_characters) - the question mark metacharacter denotes optionality (0 or 1 occurrence)
+  * [Lesson 9: All this whitespace](https://regexone.com/lesson/whitespaces) - "The most common forms of whitespace you will use with regular expressions are the space (␣), the tab (\t), the new line (\n) and the carriage return (\r) (useful in Windows environments), and these special characters match each of their respective whitespaces. In addition, a whitespace special character \s will match any of the specific whitespaces above and is extremely useful when dealing with raw input text."
+  * 
   
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
