@@ -106,6 +106,7 @@ Happy coding!
   * [Lesson 7: Mr. Kleene, Mr. Kleene](https://regexone.com/lesson/kleene_operators) - Kleene star matches 0 or more occurrence of a character, while a Kleene plus matches 1 or more occurrences of a character
   * [Lesson 8: Characters optional](https://regexone.com/lesson/optional_characters) - the question mark metacharacter denotes optionality (0 or 1 occurrence)
   * [Lesson 9: All this whitespace](https://regexone.com/lesson/whitespaces) - "The most common forms of whitespace you will use with regular expressions are the space (␣), the tab (\t), the new line (\n) and the carriage return (\r) (useful in Windows environments), and these special characters match each of their respective whitespaces. In addition, a whitespace special character \s will match any of the specific whitespaces above and is extremely useful when dealing with raw input text."
+  * [Lesson 10: Starting and ending](https://regexone.com/lesson/line_beginning_end) - hat/caret and dollar metacharacters check the beginning and end of line
   * 
   
 #### RegEx in JavaScript
