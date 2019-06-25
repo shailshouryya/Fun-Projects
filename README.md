@@ -156,6 +156,7 @@ Happy coding!
 * [Replacing JavaScript: How eBay made a web app 50x faster by switching programming languages](https://www.techrepublic.com/article/replacing-javascript-with-webassembly-how-ebay-made-a-web-app-50x-faster-by-switching-programming-languages/) - TechRepublic, By Nick Heath in Developer on May 23, 2019, 5:02 AM PST -- And why JavaScript still has an important role to play. 
 
 #### JavaScript
+* [The Modern JavaScript Tutorial](https://javascript.info/) - How it's done now. From the basics to advanced topics with simple, but detailed explanation
 * [Vanilla JavaScript Pocket Guides](https://vanillajsguides.com/) - Everything you need to master JavaScript.
 * [10 Interview Questions Every JavaScript Developer Should Know: AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) - JavaScript Scene (Medium), Eric Elliott; October 2, 2015
 * [How Popular is JavaScript in 2019?](https://medium.com/javascript-scene/how-popular-is-javascript-in-2019-823712f7c4b1) - JavaScript Scene (Medium), Eric Elliott; May 10, 2019
