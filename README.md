@@ -109,6 +109,7 @@ Happy coding!
     * \W – all but \w.
     * . – any character if with the regexp 's' flag, otherwise any except a newline.
   * [Escaping, special characters](https://javascript.info/regexp-escaping) - remember to use double backslashes to escape special characters when using the "new RegExp()" constructor
+  * [Sets and ranges [...]](https://javascript.info/regexp-character-sets-and-ranges) - no need to escape special characters in character sets (still need to use backslash for character classes though), able to use ranges (e.g. [A-Za-z]), and negate characters (e.g. *don't look for* these characters) by including a "^" at the beginning: [^0-9] looks for everything but numberic characters
 
 
 ### Websites
