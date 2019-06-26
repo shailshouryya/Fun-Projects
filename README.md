@@ -113,7 +113,8 @@ Happy coding!
   * [Lesson 14: It's all conditional](https://regexone.com/lesson/conditionals) - use the | aka pipe/logical character to indicate different possible sets of characters; alternation
 * [Regular Expressions Demystified: RegEx isn’t as hard as it looks](https://medium.com/free-code-camp/regular-expressions-demystified-regex-isnt-as-hard-as-it-looks-617b55cf787) - freeCodeCamp (Medium), by Vijayabharathi Balasubramanian; November 23, 2017
   * covers basics (literal matching with word characters and numbers, anchors, character sets, character classes, and character ranges), reverse pairs using backreferences (let e=/(\w)(\w)\2\1/;), no consecutive duplicate characters (let e=/^(?:(\w)(?!\1))+$/;), alternating patterns (let e=/^(\S)(?!\1)(\S)(\1\2)*\1?$/; e.test("xyxyx"); //true e.test("$#$#$"); //true), and checking for email addresses and valid passwords
-* 
+* [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285) - Factory Mind (Medium), by Jonny Fox; June 22, 2017
+  * covers anchors, quantifiers, OR operator, character classes, flags, grouping and capturing with (), bracket expressions, greedy and lazy matching, boundaries with \b and \B, backreferences, and lookahead and lookbehind
   
 #### RegEx in JavaScript
 * [JAVASCRIPT.INFO](https://javascript.info/regular-expressions) - Regular Expressions Landing Page
